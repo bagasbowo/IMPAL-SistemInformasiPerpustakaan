@@ -20,9 +20,9 @@ public class pengembalian {
 	String tglKembali[] = new String[data_kembali];
 	String tglPinjam[] = new String[data_kembali];
 	
-    public void addPinjam(){
+    public void addKembali(){
         System.out.println("==========================");
-        System.out.println("     Lihat Peminjaman     ");
+        System.out.println("     Lihat Pengembalian   ");
         System.out.println("==========================");
         System.out.println("");
         for(int i = 1; i<=data_kembali; i++) {
