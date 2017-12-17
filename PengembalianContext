@@ -30,8 +30,6 @@ public void memasukkan_data_pengembalian() throws Throwable {
             else
 		boolean result = false;}
 }
-}
-
 @Maka("^respon \"([^\"]*)\"$")
 public void respon(String arg1) throws Throwable {
     boolean result;
@@ -40,3 +38,4 @@ public void respon(String arg1) throws Throwable {
     }else{
         System.out.println("Data Tidak Ditemukan");
     }
+}
