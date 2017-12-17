@@ -1,0 +1,65 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package tubesimpal;
+import cucumber.api.java.bm.Maka;
+import cucumber.api.java.id.Dengan;
+import cucumber.api.java.id.Ketika;
+import java.util.Scanner;
+/**
+ *
+ * @author Asvini Dyatmika
+ */
+public class PeminjamanContext {
+ @Ketika("^Memasukkan data pinjam$")
+public void memasukkan_data_pinjam() throws Throwable {
+    int data_pinjam=add.nextInt();
+    String kdAnggota[] = new String[data_pinjam];
+    String noPinjam[] = new String[data_pinjam];
+    String nama[] = new String[data_pinjam];
+    String kodeBuku[] = new String[data_pinjam];
+    String judulBuku[] = new String[data_pinjam];
+    String tglPinjam[] = new String[data_pinjam];
+    String tglKembali[] = new String[data_pinjam];
+    Scanner add = new Scanner(System.in);
+    for(int i = 1; i<=data_pinjam; i++) {
+        System.out.println("Data peminjaman ke -  "+i);
+        System.out.println("No Pinjam	 : ");
+        noPinjam[i-1] = add.next();
+        System.out.println("Kode Anggota : ");
+        kdAnggota[i-1] = add.next();
+        System.out.println("Nama         : ");
+        nama[i-1] = add.next();
+            if (array_rekap[kdAnggota] == data_pinjam[kdAnggota])
+		boolean result = true;
+            else
+		boolean result = false;}
+        System.out.println("Kode buku	 : ");
+        kodeBuku[i-1] = add.next();
+	System.out.println("Judul buku	 : ");
+        judulBuku[i-1] = add.next();
+            if (array_rekap[kodeBuku] == data_pinjam[kodeBuku])
+		boolean hasil = true;
+            else
+		boolean hasil = false;}
+    //throw new PendingException();
+}
+
+@Maka("^respon \"([^\"]*)\"$")
+public void respon(String arg1) throws Throwable {
+    boolean result;
+    if (result = true){
+        System.out.println("Data Ditemukan");
+    }else{
+        System.out.println("Data Tidak Ditemukan");
+    }
+    boolean hasil;
+    if (hasil = true){
+        System.out.println("Data Ditemukan");
+    }else {
+        System.out.println("Data Tidak Ditemukan");
+    }   
+//throw new PendingException();
+}
