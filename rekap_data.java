@@ -12,20 +12,20 @@ package apaini;
 
 import java.util.Scanner;
 
-public class pengembalian {
+public class rekap_data {
     Scanner add = new Scanner(System.in);
     int rekap_data=add.nextInt();
 	String noPinjam[] = new String[rekap_data];
-    String kdAnggota[] = new String[rekap_data];
+        String kdAnggota[] = new String[rekap_data];
 	String nama[] = new String[rekap_data];
 	String judulBuku[] = new String[rekap_data];
 	String kodeBuku[] = new String[data_kembali];
 	String tglKembali[] = new String[data_kembali];
 	String tglPinjam[] = new String[data_kembali];
 	
-    public void addPinjam(){
+    public void showRekap(){
         System.out.println("==========================");
-        System.out.println("    	Rekap Data 	      ");
+        System.out.println("      Rekap Data 	      ");
         System.out.println("==========================");
         System.out.println("");
         for(int i = 1; i<=rekap_data; i++) {
