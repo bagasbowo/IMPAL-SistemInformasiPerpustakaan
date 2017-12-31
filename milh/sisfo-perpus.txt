@@ -1,0 +1,3354 @@
+                                                                     Page 1
+                         Data Dictionary Summary Report
+===============================================================================
+
+apaini   (Package)
+   [Peminjaman.java, 6]
+
+apaini.peminjaman   (Public Class)
+   [Peminjaman.java, 15]
+
+apaini.peminjaman.add   (Variable)
+   [Peminjaman.java, 16]
+
+apaini.peminjaman.addPinjam   (Public Method)
+   [Peminjaman.java, 26]
+
+apaini.peminjaman.addPinjam.(for_loop_1).i   (Variable)
+   [Peminjaman.java, 31]
+
+apaini.peminjaman.data_pinjam   (Variable)
+   [Peminjaman.java, 17]
+
+apaini.peminjaman.judulBuku   (Variable)
+   [Peminjaman.java, 22]
+
+apaini.peminjaman.kdAnggota   (Variable)
+   [Peminjaman.java, 18]
+
+apaini.peminjaman.kodeBuku   (Variable)
+   [Peminjaman.java, 21]
+
+apaini.peminjaman.nama   (Variable)
+   [Peminjaman.java, 20]
+
+apaini.peminjaman.noPinjam   (Variable)
+   [Peminjaman.java, 19]
+
+apaini.peminjaman.showdata   (Public Method)
+   [Peminjaman.java, 59]
+
+apaini.peminjaman.showdata.(for_loop_2).i   (Variable)
+   [Peminjaman.java, 60]
+
+apaini.peminjaman.tglKembali   (Variable)
+   [Peminjaman.java, 24]
+
+apaini.peminjaman.tglPinjam   (Variable)
+   [Peminjaman.java, 23]
+
+apaini.pengembalian   (Public Class)
+   [Pengembalian.java, 15]
+
+apaini.pengembalian.add   (Variable)
+   [Pengembalian.java, 16]
+
+apaini.pengembalian.addKembali   (Public Method)
+   [Pengembalian.java, 23]
+                                                                     Page 2
+                         Data Dictionary Summary Report
+===============================================================================
+
+apaini.pengembalian.addKembali.(for_loop_1).i   (Variable)
+   [Pengembalian.java, 28]
+
+apaini.pengembalian.data_kembali   (Variable)
+   [Pengembalian.java, 17]
+
+apaini.pengembalian.kdAnggota   (Variable)
+   [Pengembalian.java, 18]
+
+apaini.pengembalian.kodeBuku   (Variable)
+   [Pengembalian.java, 19]
+
+apaini.pengembalian.tglKembali   (Variable)
+   [Pengembalian.java, 20]
+
+apaini.pengembalian.tglPinjam   (Variable)
+   [Pengembalian.java, 21]
+
+apaini.rekap_data   (Public Class)
+   [RekapData.java, 15]
+
+apaini.rekap_data.add   (Variable)
+   [RekapData.java, 16]
+
+apaini.rekap_data.judulBuku   (Variable)
+   [RekapData.java, 21]
+
+apaini.rekap_data.kdAnggota   (Variable)
+   [RekapData.java, 19]
+
+apaini.rekap_data.kodeBuku   (Variable)
+   [RekapData.java, 22]
+
+apaini.rekap_data.nama   (Variable)
+   [RekapData.java, 20]
+
+apaini.rekap_data.noPinjam   (Variable)
+   [RekapData.java, 18]
+
+apaini.rekap_data.rekap_data   (Variable)
+   [RekapData.java, 17]
+
+apaini.rekap_data.showRekap   (Public Method)
+   [RekapData.java, 26]
+
+apaini.rekap_data.showRekap.(for_loop_1).i   (Variable)
+   [RekapData.java, 31]
+
+apaini.rekap_data.tglKembali   (Variable)
+   [RekapData.java, 23]
+
+apaini.rekap_data.tglPinjam   (Variable)
+   [RekapData.java, 24]
+                                                                     Page 3
+                         Data Dictionary Summary Report
+===============================================================================
+
+apaini.tambah_mahasiswa   (Public Class)
+   [tambah_mahasiswa.java, 15]
+
+apaini.tambah_mahasiswa.add   (Variable)
+   [tambah_mahasiswa.java, 16]
+
+apaini.tambah_mahasiswa.addMhs   (Public Method)
+   [tambah_mahasiswa.java, 24]
+
+apaini.tambah_mahasiswa.addMhs.(for_loop_1).i   (Variable)
+   [tambah_mahasiswa.java, 29]
+
+apaini.tambah_mahasiswa.data_mhs   (Variable)
+   [tambah_mahasiswa.java, 17]
+
+apaini.tambah_mahasiswa.fak   (Variable)
+   [tambah_mahasiswa.java, 22]
+
+apaini.tambah_mahasiswa.jur   (Variable)
+   [tambah_mahasiswa.java, 21]
+
+apaini.tambah_mahasiswa.kdAnggota   (Variable)
+   [tambah_mahasiswa.java, 18]
+
+apaini.tambah_mahasiswa.nama   (Variable)
+   [tambah_mahasiswa.java, 19]
+
+apaini.tambah_mahasiswa.nim   (Variable)
+   [tambah_mahasiswa.java, 20]
+
+apaini.tambah_mahasiswa.showdata   (Public Method)
+   [tambah_mahasiswa.java, 47]
+
+apaini.tambah_mahasiswa.showdata.(for_loop_2).i   (Variable)
+   [tambah_mahasiswa.java, 48]
+
+apaini.tambah_mahasiswa.telp   (Variable)
+   [tambah_mahasiswa.java, 23]
+
+array_rekap   (Unknown Variable)
+
+boolean   (Unknown Variable)
+
+cucumber.api   (Unknown Package)
+
+cucumber.api.java.bm   (Unknown Package)
+
+cucumber.api.java.bm.Maka   (Unknown Class)
+
+cucumber.api.java.id   (Unknown Package)
+
+cucumber.api.java.id.Dengan   (Unknown Class)
+
+cucumber.api.java.id.Ketika   (Unknown Class)
+                                                                     Page 4
+                         Data Dictionary Summary Report
+===============================================================================
+
+cucumber.api.PendingException   (Unknown Class)
+
+data_buku   (Unknown Variable)
+
+data_kembali   (Unknown Variable)
+
+data_mhs   (Unknown Variable)
+
+fak   (Unknown Variable)
+
+id   (Package)
+   [LoginContext.java, 6]
+
+id.impal   (Package)
+   [LoginContext.java, 6]
+
+id.impal.besokbubar   (Package)
+   [LoginContext.java, 6]
+
+id.impal.besokbubar.sisteminformasiperpustakaan   (Package)
+   [InputBukuContext.java, 6]
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext   (Public Class)
+   [InputBukuContext.java, 18]
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.data_buku_baru_yang_akan_dimasukkan_dan_tidak_duplikat   (Public Method)
+   [InputBukuContext.java, 20]
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.data_buku_baru_yang_akan_dimasukkan_dan_tidak_duplikat.data_buku   (Variable)
+   [InputBukuContext.java, 22]
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.data_buku_baru_yang_akan_dimasukkan_dan_tidak_duplikat.judulbuku   (Variable)
+   [InputBukuContext.java, 23]
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.data_buku_baru_yang_akan_dimasukkan_dan_tidak_duplikat.Namapengarang   (Variable)
+   [InputBukuContext.java, 24]
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.data_buku_baru_yang_akan_dimasukkan_dan_tidak_duplikat.scan   (Variable)
+   [InputBukuContext.java, 21]
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.data_buku_baru_yang_akan_dimasukkan_dan_tidak_duplikat.TahunTerbit   (Variable)
+   [InputBukuContext.java, 25]
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.memasukkan_data_buku   (Public Method)
+   [InputBukuContext.java, 30]
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.memasukkan_data_buku.(for_loop_1).i   (Variable)
+   [InputBukuContext.java, 31]
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.respon   (Public Method)
+   [InputBukuContext.java, 46]
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.respon.(for_loop_2).i   (Variable)
+   [InputBukuContext.java, 49]
+                                                                     Page 5
+                         Data Dictionary Summary Report
+===============================================================================
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.respon.arg1   (Parameter)
+   [InputBukuContext.java, 46]
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext   (Public Class)
+   [InputMhsContext.java, 19]
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat   (Public Method)
+   [InputMhsContext.java, 21]
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat.add   (Variable)
+   [InputMhsContext.java, 22]
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat.data_mhs   (Variable)
+   [InputMhsContext.java, 23]
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat.fak   (Variable)
+   [InputMhsContext.java, 28]
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat.jur   (Variable)
+   [InputMhsContext.java, 27]
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat.kdAnggota   (Variable)
+   [InputMhsContext.java, 24]
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat.nama   (Variable)
+   [InputMhsContext.java, 25]
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat.nim   (Variable)
+   [InputMhsContext.java, 26]
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat.telp   (Variable)
+   [InputMhsContext.java, 29]
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.memasukkan_data_mahasiswa   (Public Method)
+   [InputMhsContext.java, 35]
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.memasukkan_data_mahasiswa.(for_loop_1).i   (Variable)
+   [InputMhsContext.java, 40]
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.respon   (Public Method)
+   [InputMhsContext.java, 60]
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.respon.(for_loop_2).i   (Variable)
+   [InputMhsContext.java, 61]
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.respon.arg1   (Parameter)
+   [InputMhsContext.java, 60]
+
+id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext   (Public Class)
+   [LoginContext.java, 18]
+
+id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext.memasukkan_data_login   (Public Method)
+   [LoginContext.java, 20]
+                                                                     Page 6
+                         Data Dictionary Summary Report
+===============================================================================
+
+id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext.memasukkan_data_login.input   (Variable)
+   [LoginContext.java, 23]
+
+id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext.memasukkan_data_login.password   (Variable)
+   [LoginContext.java, 22]
+
+id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext.memasukkan_data_login.result   (Variable)
+   [LoginContext.java, 29]
+
+id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext.memasukkan_data_login.result   (Variable)
+   [LoginContext.java, 31]
+
+id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext.memasukkan_data_login.username   (Variable)
+   [LoginContext.java, 21]
+
+id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext.respon   (Public Method)
+   [LoginContext.java, 36]
+
+id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext.respon.arg1   (Parameter)
+   [LoginContext.java, 36]
+
+id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext.respon.result   (Variable)
+   [LoginContext.java, 37]
+
+judulBuku   (Unknown Variable)
+
+judulbuku   (Unknown Variable)
+
+jur   (Unknown Variable)
+
+kdAnggota   (Unknown Variable)
+
+kodeBuku   (Unknown Variable)
+
+login   (Package)
+   [Login_aplikasi.java, 1]
+
+login.login1   (Public Class)
+   [Login_aplikasi.java, 8]
+
+login.login1.login   (Public Method)
+   [Login_aplikasi.java, 9]
+
+login.login1.login.(for_loop_1).i   (Variable)
+   [Login_aplikasi.java, 15]
+
+login.login1.login.input   (Variable)
+   [Login_aplikasi.java, 10]
+
+login.login1.login.nilaii   (Variable)
+   [Login_aplikasi.java, 11]
+
+login.login1.login.password   (Parameter)
+   [Login_aplikasi.java, 9]
+                                                                     Page 7
+                         Data Dictionary Summary Report
+===============================================================================
+
+login.login1.login.username   (Parameter)
+   [Login_aplikasi.java, 9]
+
+nama   (Unknown Variable)
+
+Namapengarang   (Unknown Variable)
+
+next   (Unknown Method)
+
+nim   (Unknown Variable)
+
+TahunTerbit   (Unknown Variable)
+
+tambah_mahasiswaContext   (Public Class)
+   [tambah_mahasiswacontext.java, 18]
+
+tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat   (Public Method)
+   [tambah_mahasiswacontext.java, 20]
+
+tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat.add   (Variable)
+   [tambah_mahasiswacontext.java, 21]
+
+tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat.data_mhs   (Variable)
+   [tambah_mahasiswacontext.java, 22]
+
+tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat.fak   (Variable)
+   [tambah_mahasiswacontext.java, 27]
+
+tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat.jur   (Variable)
+   [tambah_mahasiswacontext.java, 26]
+
+tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat.kdAnggota   (Variable)
+   [tambah_mahasiswacontext.java, 23]
+
+tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat.nama   (Variable)
+   [tambah_mahasiswacontext.java, 24]
+
+tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat.nim   (Variable)
+   [tambah_mahasiswacontext.java, 25]
+
+tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat.telp   (Variable)
+   [tambah_mahasiswacontext.java, 28]
+
+tambah_mahasiswaContext.memasukkan_data_mahasiswa   (Public Method)
+   [tambah_mahasiswacontext.java, 34]
+
+tambah_mahasiswaContext.memasukkan_data_mahasiswa.(for_loop_1).i   (Variable)
+   [tambah_mahasiswacontext.java, 39]
+
+tambah_mahasiswaContext.respon   (Public Method)
+   [tambah_mahasiswacontext.java, 59]
+
+tambah_mahasiswaContext.respon.(for_loop_2).i   (Variable)
+   [tambah_mahasiswacontext.java, 60]
+                                                                     Page 8
+                         Data Dictionary Summary Report
+===============================================================================
+
+tambah_mahasiswaContext.respon.arg1   (Parameter)
+   [tambah_mahasiswacontext.java, 59]
+
+telp   (Unknown Variable)
+
+tglKembali   (Unknown Variable)
+
+tglPinjam   (Unknown Variable)
+
+tubesimpal   (Package)
+   [CariAnggota.java, 1]
+
+tubesimpal.Cari_Mahasiswa   (Public Class)
+   [CariAnggota.java, 8]
+
+tubesimpal.Cari_Mahasiswa.cari   (Public Method)
+   [CariAnggota.java, 15]
+
+tubesimpal.Cari_Mahasiswa.cari.(for_loop_1).i   (Variable)
+   [CariAnggota.java, 21]
+
+tubesimpal.Cari_Mahasiswa.cari.(for_loop_2).a   (Variable)
+   [CariAnggota.java, 28]
+
+tubesimpal.Cari_Mahasiswa.cari.(for_loop_2).s   (Variable)
+   [CariAnggota.java, 29]
+
+tubesimpal.Cari_Mahasiswa.cari.cari   (Variable)
+   [CariAnggota.java, 19]
+
+tubesimpal.Cari_Mahasiswa.cari.cari_nim   (Variable)
+   [CariAnggota.java, 16]
+
+tubesimpal.Cari_Mahasiswa.cari.index   (Variable)
+   [CariAnggota.java, 17]
+
+tubesimpal.Cari_Mahasiswa.data_mhs   (Variable)
+   [CariAnggota.java, 10]
+
+tubesimpal.Cari_Mahasiswa.nama   (Variable)
+   [CariAnggota.java, 12]
+
+tubesimpal.Cari_Mahasiswa.nim   (Variable)
+   [CariAnggota.java, 11]
+
+tubesimpal.Cari_Mahasiswa.scan   (Variable)
+   [CariAnggota.java, 9]
+
+tubesimpal.Cari_Mahasiswa.semester   (Variable)
+   [CariAnggota.java, 13]
+
+tubesimpal.PengembalianContext   (Public Class)
+   [PengembalianContext.java, 16]
+                                                                     Page 9
+                         Data Dictionary Summary Report
+===============================================================================
+
+tubesimpal.PengembalianContext.memasukkan_data_pengembalian   (Public Method)
+   [PengembalianContext.java, 18]
+
+tubesimpal.PengembalianContext.memasukkan_data_pengembalian.(for_loop_1).i   (Variable)
+   [PengembalianContext.java, 25]
+
+tubesimpal.PengembalianContext.memasukkan_data_pengembalian.add   (Variable)
+   [PengembalianContext.java, 19]
+
+tubesimpal.PengembalianContext.memasukkan_data_pengembalian.data_kembali   (Variable)
+   [PengembalianContext.java, 20]
+
+tubesimpal.PengembalianContext.memasukkan_data_pengembalian.kdAnggota   (Variable)
+   [PengembalianContext.java, 21]
+
+tubesimpal.PengembalianContext.memasukkan_data_pengembalian.kodeBuku   (Variable)
+   [PengembalianContext.java, 22]
+
+tubesimpal.PengembalianContext.memasukkan_data_pengembalian.tglKembali   (Variable)
+   [PengembalianContext.java, 23]
+
+tubesimpal.PengembalianContext.memasukkan_data_pengembalian.tglPinjam   (Variable)
+   [PengembalianContext.java, 24]
+
+tubesimpal.PengembalianContext.respon   (Public Method)
+   [PengembalianContext.java, 34]
+
+tubesimpal.PengembalianContext.respon.arg1   (Parameter)
+   [PengembalianContext.java, 34]
+
+tubesimpal.PengembalianContext.respon.result   (Variable)
+   [PengembalianContext.java, 35]
+                                                                     Page 10
+                              File Contents Report
+===============================================================================
+
+CariAnggota.java
+  Classes
+    tubesimpal.Cari_Mahasiswa
+
+InputBukuContext.java
+  Classes
+    id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext
+
+InputMhsContext.java
+  Classes
+    id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext
+
+Login_aplikasi.java
+  Classes
+    login.login1
+
+LoginContext.java
+  Classes
+    id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext
+
+Peminjaman.java
+  Classes
+    apaini.peminjaman
+
+Pengembalian.java
+  Classes
+    apaini.pengembalian
+
+PengembalianContext.java
+  Classes
+    tubesimpal.PengembalianContext
+
+RekapData.java
+  Classes
+    apaini.rekap_data
+
+RekapDataContext.java
+
+tambah_mahasiswa.java
+  Classes
+    apaini.tambah_mahasiswa
+
+tambah_mahasiswacontext.java
+  Classes
+    tambah_mahasiswaContext
+                                                                     Page 11
+                      Program Unit Cross Reference Report
+===============================================================================
+
+apaini   (Package)
+  Declared as: 
+    Define [Peminjaman.java, 6]      Peminjaman.java
+    Declare [Peminjaman.java, 6]     Peminjaman.java
+    Define [RekapData.java, 6]       RekapData.java
+    Declare [RekapData.java, 6]      RekapData.java
+    Define [tambah_mahasiswa.java, 6]   tambah_mahasiswa.java
+    Declare [tambah_mahasiswa.java, 6]   tambah_mahasiswa.java
+    Define [Pengembalian.java, 6]    Pengembalian.java
+    Declare [Pengembalian.java, 6]   Pengembalian.java
+
+apaini.peminjaman.addPinjam   (Public Method)
+  Declared as: void
+    Define [Peminjaman.java, 26]     apaini.peminjaman
+
+apaini.peminjaman.showdata   (Public Method)
+  Declared as: void
+    Define [Peminjaman.java, 59]     apaini.peminjaman
+
+apaini.pengembalian.addKembali   (Public Method)
+  Declared as: void
+    Define [Pengembalian.java, 23]   apaini.pengembalian
+
+apaini.rekap_data.showRekap   (Public Method)
+  Declared as: void
+    Define [RekapData.java, 26]      apaini.rekap_data
+
+apaini.tambah_mahasiswa.addMhs   (Public Method)
+  Declared as: void
+    Define [tambah_mahasiswa.java, 24]   apaini.tambah_mahasiswa
+
+apaini.tambah_mahasiswa.showdata   (Public Method)
+  Declared as: void
+    Define [tambah_mahasiswa.java, 47]   apaini.tambah_mahasiswa
+
+cucumber.api   (Unknown Package)
+  Declared as: 
+    DotRef [InputBukuContext.java, 8]   InputBukuContext.java
+    DotRef [tambah_mahasiswacontext.java, 7]   tambah_mahasiswacontext.java
+    DotRef [PengembalianContext.java, 7]   PengembalianContext.java
+    DotRef [InputMhsContext.java, 8]   InputMhsContext.java
+    DotRef [LoginContext.java, 8]    LoginContext.java
+
+cucumber.api.java.bm   (Unknown Package)
+  Declared as: 
+    DotRef [InputBukuContext.java, 9]   InputBukuContext.java
+    DotRef [tambah_mahasiswacontext.java, 8]   tambah_mahasiswacontext.java
+    DotRef [PengembalianContext.java, 8]   PengembalianContext.java
+    DotRef [InputMhsContext.java, 9]   InputMhsContext.java
+    DotRef [LoginContext.java, 9]    LoginContext.java
+
+cucumber.api.java.id   (Unknown Package)
+  Declared as: 
+    DotRef [InputBukuContext.java, 10]   InputBukuContext.java
+    DotRef [InputBukuContext.java, 11]   InputBukuContext.java
+                                                                     Page 12
+                      Program Unit Cross Reference Report
+===============================================================================
+    DotRef [tambah_mahasiswacontext.java, 9]   tambah_mahasiswacontext.java
+    DotRef [tambah_mahasiswacontext.java, 10]   tambah_mahasiswacontext.java
+    DotRef [PengembalianContext.java, 9]   PengembalianContext.java
+    DotRef [PengembalianContext.java, 10]   PengembalianContext.java
+    DotRef [InputMhsContext.java, 10]   InputMhsContext.java
+    DotRef [InputMhsContext.java, 11]   InputMhsContext.java
+    DotRef [LoginContext.java, 10]   LoginContext.java
+    DotRef [LoginContext.java, 11]   LoginContext.java
+
+id   (Package)
+  Declared as: 
+    Declare [LoginContext.java, 6]   LoginContext.java
+    Declare [InputMhsContext.java, 6]   InputMhsContext.java
+    Declare [RekapDataContext.java, 6]   RekapDataContext.java
+    Declare [InputBukuContext.java, 6]   InputBukuContext.java
+
+id.impal   (Package)
+  Declared as: 
+    Declare [LoginContext.java, 6]   id
+    Declare [InputMhsContext.java, 6]   id
+    Declare [RekapDataContext.java, 6]   id
+    Declare [InputBukuContext.java, 6]   id
+
+id.impal.besokbubar   (Package)
+  Declared as: 
+    Declare [LoginContext.java, 6]   id.impal
+    Declare [InputMhsContext.java, 6]   id.impal
+    Declare [RekapDataContext.java, 6]   id.impal
+    Declare [InputBukuContext.java, 6]   id.impal
+
+id.impal.besokbubar.sisteminformasiperpustakaan   (Package)
+  Declared as: 
+    Define [InputBukuContext.java, 6]   InputBukuContext.java
+    Declare [InputBukuContext.java, 6]   id.impal.besokbubar
+    Define [RekapDataContext.java, 6]   RekapDataContext.java
+    Declare [RekapDataContext.java, 6]   id.impal.besokbubar
+    Define [InputMhsContext.java, 6]   InputMhsContext.java
+    Declare [InputMhsContext.java, 6]   id.impal.besokbubar
+    Define [LoginContext.java, 6]    LoginContext.java
+    Declare [LoginContext.java, 6]   id.impal.besokbubar
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.data_buku_baru_yang_akan_dimasukkan_dan_tidak_duplikat   (Public Method)
+  Declared as: void
+    Define [InputBukuContext.java, 20]   id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.memasukkan_data_buku   (Public Method)
+  Declared as: void
+    Define [InputBukuContext.java, 30]   id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.respon   (Public Method)
+  Declared as: void
+    Define [InputBukuContext.java, 46]   id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat   (Public Method)
+  Declared as: void
+    Define [InputMhsContext.java, 21]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext
+                                                                     Page 13
+                      Program Unit Cross Reference Report
+===============================================================================
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.memasukkan_data_mahasiswa   (Public Method)
+  Declared as: void
+    Define [InputMhsContext.java, 35]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.respon   (Public Method)
+  Declared as: void
+    Define [InputMhsContext.java, 60]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext
+
+id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext.memasukkan_data_login   (Public Method)
+  Declared as: void
+    Define [LoginContext.java, 20]   id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext
+
+id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext.respon   (Public Method)
+  Declared as: void
+    Define [LoginContext.java, 36]   id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext
+
+login   (Package)
+  Declared as: 
+    Define [Login_aplikasi.java, 1]   Login_aplikasi.java
+    Declare [Login_aplikasi.java, 1]   Login_aplikasi.java
+
+login.login1.login   (Public Method)
+  Declared as: void
+    Define [Login_aplikasi.java, 9]   login.login1
+
+next   (Unknown Method)
+  Declared as: 
+    Call [InputBukuContext.java, 34]   id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.memasukkan_data_buku
+    Call [InputBukuContext.java, 36]   id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.memasukkan_data_buku
+    Call [InputBukuContext.java, 38]   id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.memasukkan_data_buku
+    Call [tambah_mahasiswacontext.java, 42]   tambah_mahasiswaContext.memasukkan_data_mahasiswa
+    Call [tambah_mahasiswacontext.java, 44]   tambah_mahasiswaContext.memasukkan_data_mahasiswa
+    Call [tambah_mahasiswacontext.java, 46]   tambah_mahasiswaContext.memasukkan_data_mahasiswa
+    Call [tambah_mahasiswacontext.java, 48]   tambah_mahasiswaContext.memasukkan_data_mahasiswa
+    Call [tambah_mahasiswacontext.java, 50]   tambah_mahasiswaContext.memasukkan_data_mahasiswa
+    Call [tambah_mahasiswacontext.java, 52]   tambah_mahasiswaContext.memasukkan_data_mahasiswa
+    Call [InputMhsContext.java, 43]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.memasukkan_data_mahasiswa
+    Call [InputMhsContext.java, 45]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.memasukkan_data_mahasiswa
+    Call [InputMhsContext.java, 47]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.memasukkan_data_mahasiswa
+    Call [InputMhsContext.java, 49]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.memasukkan_data_mahasiswa
+    Call [InputMhsContext.java, 51]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.memasukkan_data_mahasiswa
+    Call [InputMhsContext.java, 53]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.memasukkan_data_mahasiswa
+
+tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat   (Public Method)
+  Declared as: void
+    Define [tambah_mahasiswacontext.java, 20]   tambah_mahasiswaContext
+
+tambah_mahasiswaContext.memasukkan_data_mahasiswa   (Public Method)
+  Declared as: void
+    Define [tambah_mahasiswacontext.java, 34]   tambah_mahasiswaContext
+
+tambah_mahasiswaContext.respon   (Public Method)
+  Declared as: void
+    Define [tambah_mahasiswacontext.java, 59]   tambah_mahasiswaContext
+                                                                     Page 14
+                      Program Unit Cross Reference Report
+===============================================================================
+
+tubesimpal   (Package)
+  Declared as: 
+    Define [CariAnggota.java, 1]     CariAnggota.java
+    Declare [CariAnggota.java, 1]    CariAnggota.java
+    Define [PengembalianContext.java, 6]   PengembalianContext.java
+    Declare [PengembalianContext.java, 6]   PengembalianContext.java
+
+tubesimpal.Cari_Mahasiswa.cari   (Public Method)
+  Declared as: void
+    Define [CariAnggota.java, 15]    tubesimpal.Cari_Mahasiswa
+
+tubesimpal.PengembalianContext.memasukkan_data_pengembalian   (Public Method)
+  Declared as: void
+    Define [PengembalianContext.java, 18]   tubesimpal.PengembalianContext
+
+tubesimpal.PengembalianContext.respon   (Public Method)
+  Declared as: void
+    Define [PengembalianContext.java, 34]   tubesimpal.PengembalianContext
+                                                                     Page 15
+                         Object Cross Reference Report
+===============================================================================
+
+apaini.peminjaman.add   (Variable)
+  Declared as: Scanner=Scanner(System.in)
+    Define [Peminjaman.java, 16]     apaini.peminjaman
+    Set [Peminjaman.java, 16]        apaini.peminjaman
+    Use [Peminjaman.java, 17]        apaini.peminjaman
+    Use [Peminjaman.java, 34]        apaini.peminjaman.addPinjam
+    Use [Peminjaman.java, 36]        apaini.peminjaman.addPinjam
+    Use [Peminjaman.java, 38]        apaini.peminjaman.addPinjam
+    Use [Peminjaman.java, 44]        apaini.peminjaman.addPinjam
+    Use [Peminjaman.java, 46]        apaini.peminjaman.addPinjam
+    Use [Peminjaman.java, 53]        apaini.peminjaman.addPinjam
+    Use [Peminjaman.java, 55]        apaini.peminjaman.addPinjam
+
+apaini.peminjaman.addPinjam.(for_loop_1).i   (Variable)
+  Declared as: int=1
+    Set [Peminjaman.java, 31]        apaini.peminjaman.addPinjam
+    Use [Peminjaman.java, 31]        apaini.peminjaman.addPinjam
+    Modify [Peminjaman.java, 31]     apaini.peminjaman.addPinjam
+    Use [Peminjaman.java, 32]        apaini.peminjaman.addPinjam
+    Use [Peminjaman.java, 34]        apaini.peminjaman.addPinjam
+    Use [Peminjaman.java, 36]        apaini.peminjaman.addPinjam
+    Use [Peminjaman.java, 38]        apaini.peminjaman.addPinjam
+    Use [Peminjaman.java, 44]        apaini.peminjaman.addPinjam
+    Use [Peminjaman.java, 46]        apaini.peminjaman.addPinjam
+    Use [Peminjaman.java, 53]        apaini.peminjaman.addPinjam
+    Use [Peminjaman.java, 55]        apaini.peminjaman.addPinjam
+    Define [Peminjaman.java, 31]     apaini.peminjaman.addPinjam
+
+apaini.peminjaman.data_pinjam   (Variable)
+  Declared as: int=add.nextInt
+    Define [Peminjaman.java, 17]     apaini.peminjaman
+    Set [Peminjaman.java, 17]        apaini.peminjaman
+    Use [Peminjaman.java, 18]        apaini.peminjaman
+    Use [Peminjaman.java, 19]        apaini.peminjaman
+    Use [Peminjaman.java, 20]        apaini.peminjaman
+    Use [Peminjaman.java, 21]        apaini.peminjaman
+    Use [Peminjaman.java, 22]        apaini.peminjaman
+    Use [Peminjaman.java, 23]        apaini.peminjaman
+    Use [Peminjaman.java, 24]        apaini.peminjaman
+    Use [Peminjaman.java, 31]        apaini.peminjaman.addPinjam
+    Use [Peminjaman.java, 39]        apaini.peminjaman.addPinjam
+    Use [Peminjaman.java, 47]        apaini.peminjaman.addPinjam
+    Use [Peminjaman.java, 60]        apaini.peminjaman.showdata
+
+apaini.peminjaman.judulBuku   (Variable)
+  Declared as: String[]=String[data_pinjam]
+    Define [Peminjaman.java, 22]     apaini.peminjaman
+    Set [Peminjaman.java, 22]        apaini.peminjaman
+    Set [Peminjaman.java, 46]        apaini.peminjaman.addPinjam
+    Use [Peminjaman.java, 66]        apaini.peminjaman.showdata
+
+apaini.peminjaman.kdAnggota   (Variable)
+  Declared as: String[]=String[data_pinjam]
+    Define [Peminjaman.java, 18]     apaini.peminjaman
+    Set [Peminjaman.java, 18]        apaini.peminjaman
+                                                                     Page 16
+                         Object Cross Reference Report
+===============================================================================
+    Set [Peminjaman.java, 36]        apaini.peminjaman.addPinjam
+    Use [Peminjaman.java, 39]        apaini.peminjaman.addPinjam
+    Use [Peminjaman.java, 39]        apaini.peminjaman.addPinjam
+    Use [Peminjaman.java, 63]        apaini.peminjaman.showdata
+
+apaini.peminjaman.kodeBuku   (Variable)
+  Declared as: String[]=String[data_pinjam]
+    Define [Peminjaman.java, 21]     apaini.peminjaman
+    Set [Peminjaman.java, 21]        apaini.peminjaman
+    Set [Peminjaman.java, 44]        apaini.peminjaman.addPinjam
+    Use [Peminjaman.java, 47]        apaini.peminjaman.addPinjam
+    Use [Peminjaman.java, 47]        apaini.peminjaman.addPinjam
+    Use [Peminjaman.java, 65]        apaini.peminjaman.showdata
+
+apaini.peminjaman.nama   (Variable)
+  Declared as: String[]=String[data_pinjam]
+    Define [Peminjaman.java, 20]     apaini.peminjaman
+    Set [Peminjaman.java, 20]        apaini.peminjaman
+    Set [Peminjaman.java, 38]        apaini.peminjaman.addPinjam
+    Use [Peminjaman.java, 64]        apaini.peminjaman.showdata
+
+apaini.peminjaman.noPinjam   (Variable)
+  Declared as: String[]=String[data_pinjam]
+    Define [Peminjaman.java, 19]     apaini.peminjaman
+    Set [Peminjaman.java, 19]        apaini.peminjaman
+    Set [Peminjaman.java, 34]        apaini.peminjaman.addPinjam
+    Use [Peminjaman.java, 62]        apaini.peminjaman.showdata
+
+apaini.peminjaman.showdata.(for_loop_2).i   (Variable)
+  Declared as: int=1
+    Set [Peminjaman.java, 60]        apaini.peminjaman.showdata
+    Use [Peminjaman.java, 60]        apaini.peminjaman.showdata
+    Modify [Peminjaman.java, 60]     apaini.peminjaman.showdata
+    Use [Peminjaman.java, 61]        apaini.peminjaman.showdata
+    Use [Peminjaman.java, 62]        apaini.peminjaman.showdata
+    Use [Peminjaman.java, 63]        apaini.peminjaman.showdata
+    Use [Peminjaman.java, 64]        apaini.peminjaman.showdata
+    Use [Peminjaman.java, 65]        apaini.peminjaman.showdata
+    Use [Peminjaman.java, 66]        apaini.peminjaman.showdata
+    Use [Peminjaman.java, 67]        apaini.peminjaman.showdata
+    Use [Peminjaman.java, 68]        apaini.peminjaman.showdata
+    Define [Peminjaman.java, 60]     apaini.peminjaman.showdata
+
+apaini.peminjaman.tglKembali   (Variable)
+  Declared as: String[]=String[data_pinjam]
+    Define [Peminjaman.java, 24]     apaini.peminjaman
+    Set [Peminjaman.java, 24]        apaini.peminjaman
+    Set [Peminjaman.java, 55]        apaini.peminjaman.addPinjam
+    Use [Peminjaman.java, 68]        apaini.peminjaman.showdata
+
+apaini.peminjaman.tglPinjam   (Variable)
+  Declared as: String[]=String[data_pinjam]
+    Define [Peminjaman.java, 23]     apaini.peminjaman
+    Set [Peminjaman.java, 23]        apaini.peminjaman
+    Set [Peminjaman.java, 53]        apaini.peminjaman.addPinjam
+    Use [Peminjaman.java, 67]        apaini.peminjaman.showdata
+                                                                     Page 17
+                         Object Cross Reference Report
+===============================================================================
+
+apaini.pengembalian.add   (Variable)
+  Declared as: Scanner=Scanner(System.in)
+    Define [Pengembalian.java, 16]   apaini.pengembalian
+    Set [Pengembalian.java, 16]      apaini.pengembalian
+    Use [Pengembalian.java, 17]      apaini.pengembalian
+    Use [Pengembalian.java, 30]      apaini.pengembalian.addKembali
+
+apaini.pengembalian.addKembali.(for_loop_1).i   (Variable)
+  Declared as: int=1
+    Set [Pengembalian.java, 28]      apaini.pengembalian.addKembali
+    Use [Pengembalian.java, 28]      apaini.pengembalian.addKembali
+    Modify [Pengembalian.java, 28]   apaini.pengembalian.addKembali
+    Use [Pengembalian.java, 30]      apaini.pengembalian.addKembali
+    Use [Pengembalian.java, 33]      apaini.pengembalian.addKembali
+    Use [Pengembalian.java, 34]      apaini.pengembalian.addKembali
+    Use [Pengembalian.java, 35]      apaini.pengembalian.addKembali
+    Use [Pengembalian.java, 36]      apaini.pengembalian.addKembali
+    Define [Pengembalian.java, 28]   apaini.pengembalian.addKembali
+
+apaini.pengembalian.data_kembali   (Variable)
+  Declared as: int=add.nextInt
+    Define [Pengembalian.java, 17]   apaini.pengembalian
+    Set [Pengembalian.java, 17]      apaini.pengembalian
+    Use [Pengembalian.java, 18]      apaini.pengembalian
+    Use [Pengembalian.java, 19]      apaini.pengembalian
+    Use [Pengembalian.java, 20]      apaini.pengembalian
+    Use [Pengembalian.java, 21]      apaini.pengembalian
+    Use [Pengembalian.java, 28]      apaini.pengembalian.addKembali
+    Use [Pengembalian.java, 31]      apaini.pengembalian.addKembali
+    Use [Pengembalian.java, 33]      apaini.pengembalian.addKembali
+    Use [Pengembalian.java, 34]      apaini.pengembalian.addKembali
+    Use [Pengembalian.java, 35]      apaini.pengembalian.addKembali
+    Use [Pengembalian.java, 36]      apaini.pengembalian.addKembali
+
+apaini.pengembalian.kdAnggota   (Variable)
+  Declared as: String[]=String[data_kembali]
+    Define [Pengembalian.java, 18]   apaini.pengembalian
+    Set [Pengembalian.java, 18]      apaini.pengembalian
+    Set [Pengembalian.java, 30]      apaini.pengembalian.addKembali
+    Use [Pengembalian.java, 31]      apaini.pengembalian.addKembali
+    Use [Pengembalian.java, 31]      apaini.pengembalian.addKembali
+
+apaini.pengembalian.kodeBuku   (Variable)
+  Declared as: String[]=String[data_kembali]
+    Define [Pengembalian.java, 19]   apaini.pengembalian
+    Set [Pengembalian.java, 19]      apaini.pengembalian
+
+apaini.pengembalian.tglKembali   (Variable)
+  Declared as: String[]=String[data_kembali]
+    Define [Pengembalian.java, 20]   apaini.pengembalian
+    Set [Pengembalian.java, 20]      apaini.pengembalian
+
+apaini.pengembalian.tglPinjam   (Variable)
+  Declared as: String[]=String[data_kembali]
+    Define [Pengembalian.java, 21]   apaini.pengembalian
+                                                                     Page 18
+                         Object Cross Reference Report
+===============================================================================
+    Set [Pengembalian.java, 21]      apaini.pengembalian
+
+apaini.rekap_data.add   (Variable)
+  Declared as: Scanner=Scanner(System.in)
+    Define [RekapData.java, 16]      apaini.rekap_data
+    Set [RekapData.java, 16]         apaini.rekap_data
+    Use [RekapData.java, 17]         apaini.rekap_data
+    Use [RekapData.java, 33]         apaini.rekap_data.showRekap
+    Use [RekapData.java, 35]         apaini.rekap_data.showRekap
+
+apaini.rekap_data.judulBuku   (Variable)
+  Declared as: String[]=String[rekap_data]
+    Define [RekapData.java, 21]      apaini.rekap_data
+    Set [RekapData.java, 21]         apaini.rekap_data
+
+apaini.rekap_data.kdAnggota   (Variable)
+  Declared as: String[]=String[rekap_data]
+    Define [RekapData.java, 19]      apaini.rekap_data
+    Set [RekapData.java, 19]         apaini.rekap_data
+    Set [RekapData.java, 35]         apaini.rekap_data.showRekap
+    Use [RekapData.java, 36]         apaini.rekap_data.showRekap
+    Use [RekapData.java, 36]         apaini.rekap_data.showRekap
+    Use [RekapData.java, 40]         apaini.rekap_data.showRekap
+    Use [RekapData.java, 40]         apaini.rekap_data.showRekap
+
+apaini.rekap_data.kodeBuku   (Variable)
+  Declared as: String[]=String[data_kembali]
+    Define [RekapData.java, 22]      apaini.rekap_data
+    Set [RekapData.java, 22]         apaini.rekap_data
+
+apaini.rekap_data.nama   (Variable)
+  Declared as: String[]=String[rekap_data]
+    Define [RekapData.java, 20]      apaini.rekap_data
+    Set [RekapData.java, 20]         apaini.rekap_data
+
+apaini.rekap_data.noPinjam   (Variable)
+  Declared as: String[]=String[rekap_data]
+    Define [RekapData.java, 18]      apaini.rekap_data
+    Set [RekapData.java, 18]         apaini.rekap_data
+    Set [RekapData.java, 33]         apaini.rekap_data.showRekap
+
+apaini.rekap_data.rekap_data   (Variable)
+  Declared as: int=add.nextInt
+    Define [RekapData.java, 17]      apaini.rekap_data
+    Set [RekapData.java, 17]         apaini.rekap_data
+    Use [RekapData.java, 18]         apaini.rekap_data
+    Use [RekapData.java, 19]         apaini.rekap_data
+    Use [RekapData.java, 20]         apaini.rekap_data
+    Use [RekapData.java, 21]         apaini.rekap_data
+    Use [RekapData.java, 31]         apaini.rekap_data.showRekap
+    Use [RekapData.java, 38]         apaini.rekap_data.showRekap
+    Use [RekapData.java, 39]         apaini.rekap_data.showRekap
+    Use [RekapData.java, 42]         apaini.rekap_data.showRekap
+    Use [RekapData.java, 44]         apaini.rekap_data.showRekap
+                                                                     Page 19
+                         Object Cross Reference Report
+===============================================================================
+
+apaini.rekap_data.showRekap.(for_loop_1).i   (Variable)
+  Declared as: int=1
+    Set [RekapData.java, 31]         apaini.rekap_data.showRekap
+    Use [RekapData.java, 31]         apaini.rekap_data.showRekap
+    Modify [RekapData.java, 31]      apaini.rekap_data.showRekap
+    Use [RekapData.java, 33]         apaini.rekap_data.showRekap
+    Use [RekapData.java, 35]         apaini.rekap_data.showRekap
+    Use [RekapData.java, 38]         apaini.rekap_data.showRekap
+    Use [RekapData.java, 39]         apaini.rekap_data.showRekap
+    Use [RekapData.java, 42]         apaini.rekap_data.showRekap
+    Use [RekapData.java, 44]         apaini.rekap_data.showRekap
+    Define [RekapData.java, 31]      apaini.rekap_data.showRekap
+
+apaini.rekap_data.tglKembali   (Variable)
+  Declared as: String[]=String[data_kembali]
+    Define [RekapData.java, 23]      apaini.rekap_data
+    Set [RekapData.java, 23]         apaini.rekap_data
+
+apaini.rekap_data.tglPinjam   (Variable)
+  Declared as: String[]=String[data_kembali]
+    Define [RekapData.java, 24]      apaini.rekap_data
+    Set [RekapData.java, 24]         apaini.rekap_data
+
+apaini.tambah_mahasiswa.add   (Variable)
+  Declared as: Scanner=Scanner(System.in)
+    Define [tambah_mahasiswa.java, 16]   apaini.tambah_mahasiswa
+    Set [tambah_mahasiswa.java, 16]   apaini.tambah_mahasiswa
+    Use [tambah_mahasiswa.java, 17]   apaini.tambah_mahasiswa
+    Use [tambah_mahasiswa.java, 32]   apaini.tambah_mahasiswa.addMhs
+    Use [tambah_mahasiswa.java, 34]   apaini.tambah_mahasiswa.addMhs
+    Use [tambah_mahasiswa.java, 36]   apaini.tambah_mahasiswa.addMhs
+    Use [tambah_mahasiswa.java, 38]   apaini.tambah_mahasiswa.addMhs
+    Use [tambah_mahasiswa.java, 40]   apaini.tambah_mahasiswa.addMhs
+    Use [tambah_mahasiswa.java, 42]   apaini.tambah_mahasiswa.addMhs
+
+apaini.tambah_mahasiswa.addMhs.(for_loop_1).i   (Variable)
+  Declared as: int=1
+    Set [tambah_mahasiswa.java, 29]   apaini.tambah_mahasiswa.addMhs
+    Use [tambah_mahasiswa.java, 29]   apaini.tambah_mahasiswa.addMhs
+    Modify [tambah_mahasiswa.java, 29]   apaini.tambah_mahasiswa.addMhs
+    Use [tambah_mahasiswa.java, 30]   apaini.tambah_mahasiswa.addMhs
+    Use [tambah_mahasiswa.java, 32]   apaini.tambah_mahasiswa.addMhs
+    Use [tambah_mahasiswa.java, 34]   apaini.tambah_mahasiswa.addMhs
+    Use [tambah_mahasiswa.java, 36]   apaini.tambah_mahasiswa.addMhs
+    Use [tambah_mahasiswa.java, 38]   apaini.tambah_mahasiswa.addMhs
+    Use [tambah_mahasiswa.java, 40]   apaini.tambah_mahasiswa.addMhs
+    Use [tambah_mahasiswa.java, 42]   apaini.tambah_mahasiswa.addMhs
+    Define [tambah_mahasiswa.java, 29]   apaini.tambah_mahasiswa.addMhs
+
+apaini.tambah_mahasiswa.data_mhs   (Variable)
+  Declared as: int=add.nextInt
+    Define [tambah_mahasiswa.java, 17]   apaini.tambah_mahasiswa
+    Set [tambah_mahasiswa.java, 17]   apaini.tambah_mahasiswa
+    Use [tambah_mahasiswa.java, 18]   apaini.tambah_mahasiswa
+    Use [tambah_mahasiswa.java, 19]   apaini.tambah_mahasiswa
+                                                                     Page 20
+                         Object Cross Reference Report
+===============================================================================
+    Use [tambah_mahasiswa.java, 20]   apaini.tambah_mahasiswa
+    Use [tambah_mahasiswa.java, 21]   apaini.tambah_mahasiswa
+    Use [tambah_mahasiswa.java, 22]   apaini.tambah_mahasiswa
+    Use [tambah_mahasiswa.java, 23]   apaini.tambah_mahasiswa
+    Use [tambah_mahasiswa.java, 29]   apaini.tambah_mahasiswa.addMhs
+    Use [tambah_mahasiswa.java, 48]   apaini.tambah_mahasiswa.showdata
+
+apaini.tambah_mahasiswa.fak   (Variable)
+  Declared as: String[]=String[data_mhs]
+    Define [tambah_mahasiswa.java, 22]   apaini.tambah_mahasiswa
+    Set [tambah_mahasiswa.java, 22]   apaini.tambah_mahasiswa
+    Set [tambah_mahasiswa.java, 40]   apaini.tambah_mahasiswa.addMhs
+    Use [tambah_mahasiswa.java, 54]   apaini.tambah_mahasiswa.showdata
+
+apaini.tambah_mahasiswa.jur   (Variable)
+  Declared as: String[]=String[data_mhs]
+    Define [tambah_mahasiswa.java, 21]   apaini.tambah_mahasiswa
+    Set [tambah_mahasiswa.java, 21]   apaini.tambah_mahasiswa
+    Set [tambah_mahasiswa.java, 38]   apaini.tambah_mahasiswa.addMhs
+    Use [tambah_mahasiswa.java, 53]   apaini.tambah_mahasiswa.showdata
+
+apaini.tambah_mahasiswa.kdAnggota   (Variable)
+  Declared as: String[]=String[data_mhs]
+    Define [tambah_mahasiswa.java, 18]   apaini.tambah_mahasiswa
+    Set [tambah_mahasiswa.java, 18]   apaini.tambah_mahasiswa
+    Set [tambah_mahasiswa.java, 32]   apaini.tambah_mahasiswa.addMhs
+    Use [tambah_mahasiswa.java, 50]   apaini.tambah_mahasiswa.showdata
+
+apaini.tambah_mahasiswa.nama   (Variable)
+  Declared as: String[]=String[data_mhs]
+    Define [tambah_mahasiswa.java, 19]   apaini.tambah_mahasiswa
+    Set [tambah_mahasiswa.java, 19]   apaini.tambah_mahasiswa
+    Set [tambah_mahasiswa.java, 34]   apaini.tambah_mahasiswa.addMhs
+    Use [tambah_mahasiswa.java, 51]   apaini.tambah_mahasiswa.showdata
+
+apaini.tambah_mahasiswa.nim   (Variable)
+  Declared as: String[]=String[data_mhs]
+    Define [tambah_mahasiswa.java, 20]   apaini.tambah_mahasiswa
+    Set [tambah_mahasiswa.java, 20]   apaini.tambah_mahasiswa
+    Set [tambah_mahasiswa.java, 36]   apaini.tambah_mahasiswa.addMhs
+    Use [tambah_mahasiswa.java, 52]   apaini.tambah_mahasiswa.showdata
+
+apaini.tambah_mahasiswa.showdata.(for_loop_2).i   (Variable)
+  Declared as: int=1
+    Set [tambah_mahasiswa.java, 48]   apaini.tambah_mahasiswa.showdata
+    Use [tambah_mahasiswa.java, 48]   apaini.tambah_mahasiswa.showdata
+    Modify [tambah_mahasiswa.java, 48]   apaini.tambah_mahasiswa.showdata
+    Use [tambah_mahasiswa.java, 49]   apaini.tambah_mahasiswa.showdata
+    Use [tambah_mahasiswa.java, 50]   apaini.tambah_mahasiswa.showdata
+    Use [tambah_mahasiswa.java, 51]   apaini.tambah_mahasiswa.showdata
+    Use [tambah_mahasiswa.java, 52]   apaini.tambah_mahasiswa.showdata
+    Use [tambah_mahasiswa.java, 53]   apaini.tambah_mahasiswa.showdata
+    Use [tambah_mahasiswa.java, 54]   apaini.tambah_mahasiswa.showdata
+    Use [tambah_mahasiswa.java, 55]   apaini.tambah_mahasiswa.showdata
+    Define [tambah_mahasiswa.java, 48]   apaini.tambah_mahasiswa.showdata
+                                                                     Page 21
+                         Object Cross Reference Report
+===============================================================================
+
+apaini.tambah_mahasiswa.telp   (Variable)
+  Declared as: String[]=String[data_mhs]
+    Define [tambah_mahasiswa.java, 23]   apaini.tambah_mahasiswa
+    Set [tambah_mahasiswa.java, 23]   apaini.tambah_mahasiswa
+    Set [tambah_mahasiswa.java, 42]   apaini.tambah_mahasiswa.addMhs
+    Use [tambah_mahasiswa.java, 55]   apaini.tambah_mahasiswa.showdata
+
+array_rekap   (Unknown Variable)
+  Declared as: 
+    Use [RekapData.java, 36]         apaini.rekap_data.showRekap
+    Use [RekapData.java, 40]         apaini.rekap_data.showRekap
+    Use [Peminjaman.java, 39]        apaini.peminjaman.addPinjam
+    Use [Peminjaman.java, 47]        apaini.peminjaman.addPinjam
+    Use [PengembalianContext.java, 28]   tubesimpal.PengembalianContext.memasukkan_data_pengembalian
+    Use [Pengembalian.java, 31]      apaini.pengembalian.addKembali
+
+boolean   (Unknown Variable)
+  Declared as: 
+    Use [PengembalianContext.java, 29]   tubesimpal.PengembalianContext.memasukkan_data_pengembalian
+    Use [PengembalianContext.java, 31]   tubesimpal.PengembalianContext.memasukkan_data_pengembalian
+
+data_buku   (Unknown Variable)
+  Declared as: 
+    Use [InputBukuContext.java, 31]   id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.memasukkan_data_buku
+    Use [InputBukuContext.java, 49]   id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.respon
+
+data_kembali   (Unknown Variable)
+  Declared as: 
+    Use [RekapData.java, 22]         apaini.rekap_data
+    Use [RekapData.java, 23]         apaini.rekap_data
+    Use [RekapData.java, 24]         apaini.rekap_data
+    Use [RekapData.java, 36]         apaini.rekap_data.showRekap
+    Use [RekapData.java, 40]         apaini.rekap_data.showRekap
+
+data_mhs   (Unknown Variable)
+  Declared as: 
+    Use [tambah_mahasiswacontext.java, 39]   tambah_mahasiswaContext.memasukkan_data_mahasiswa
+    Use [tambah_mahasiswacontext.java, 60]   tambah_mahasiswaContext.respon
+    Use [InputMhsContext.java, 40]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.memasukkan_data_mahasiswa
+    Use [InputMhsContext.java, 61]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.respon
+
+fak   (Unknown Variable)
+  Declared as: 
+    Use [tambah_mahasiswacontext.java, 50]   tambah_mahasiswaContext.memasukkan_data_mahasiswa
+    Use [tambah_mahasiswacontext.java, 66]   tambah_mahasiswaContext.respon
+    Use [InputMhsContext.java, 51]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.memasukkan_data_mahasiswa
+    Use [InputMhsContext.java, 67]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.respon
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.data_buku_baru_yang_akan_dimasukkan_dan_tidak_duplikat.data_buku   (Variable)
+  Declared as: int=scan.nextInt
+    Define [InputBukuContext.java, 22]   id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.data_buku_baru_yang_akan_dimasukkan_dan_tidak_duplikat
+    Set [InputBukuContext.java, 22]   id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.data_buku_baru_yang_akan_dimasukkan_dan_tidak_duplikat
+    Use [InputBukuContext.java, 23]   id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.data_buku_baru_yang_akan_dimasukkan_dan_tidak_duplikat
+    Use [InputBukuContext.java, 24]   id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.data_buku_baru_yang_akan_dimasukkan_dan_tidak_duplikat
+    Use [InputBukuContext.java, 25]   id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.data_buku_baru_yang_akan_dimasukkan_dan_tidak_duplikat
+                                                                     Page 22
+                         Object Cross Reference Report
+===============================================================================
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.data_buku_baru_yang_akan_dimasukkan_dan_tidak_duplikat.judulbuku   (Variable)
+  Declared as: String[]=String[data_buku]
+    Define [InputBukuContext.java, 23]   id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.data_buku_baru_yang_akan_dimasukkan_dan_tidak_duplikat
+    Set [InputBukuContext.java, 23]   id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.data_buku_baru_yang_akan_dimasukkan_dan_tidak_duplikat
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.data_buku_baru_yang_akan_dimasukkan_dan_tidak_duplikat.Namapengarang   (Variable)
+  Declared as: String[]=String[data_buku]
+    Define [InputBukuContext.java, 24]   id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.data_buku_baru_yang_akan_dimasukkan_dan_tidak_duplikat
+    Set [InputBukuContext.java, 24]   id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.data_buku_baru_yang_akan_dimasukkan_dan_tidak_duplikat
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.data_buku_baru_yang_akan_dimasukkan_dan_tidak_duplikat.scan   (Variable)
+  Declared as: Scanner=Scanner(System.in)
+    Define [InputBukuContext.java, 21]   id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.data_buku_baru_yang_akan_dimasukkan_dan_tidak_duplikat
+    Set [InputBukuContext.java, 21]   id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.data_buku_baru_yang_akan_dimasukkan_dan_tidak_duplikat
+    Use [InputBukuContext.java, 22]   id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.data_buku_baru_yang_akan_dimasukkan_dan_tidak_duplikat
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.data_buku_baru_yang_akan_dimasukkan_dan_tidak_duplikat.TahunTerbit   (Variable)
+  Declared as: String[]=String[data_buku]
+    Define [InputBukuContext.java, 25]   id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.data_buku_baru_yang_akan_dimasukkan_dan_tidak_duplikat
+    Set [InputBukuContext.java, 25]   id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.data_buku_baru_yang_akan_dimasukkan_dan_tidak_duplikat
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.memasukkan_data_buku.(for_loop_1).i   (Variable)
+  Declared as: int=1
+    Set [InputBukuContext.java, 31]   id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.memasukkan_data_buku
+    Use [InputBukuContext.java, 31]   id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.memasukkan_data_buku
+    Modify [InputBukuContext.java, 31]   id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.memasukkan_data_buku
+    Use [InputBukuContext.java, 32]   id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.memasukkan_data_buku
+    Use [InputBukuContext.java, 34]   id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.memasukkan_data_buku
+    Use [InputBukuContext.java, 36]   id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.memasukkan_data_buku
+    Use [InputBukuContext.java, 38]   id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.memasukkan_data_buku
+    Define [InputBukuContext.java, 31]   id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.memasukkan_data_buku
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.respon.(for_loop_2).i   (Variable)
+  Declared as: int=1
+    Set [InputBukuContext.java, 49]   id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.respon
+    Use [InputBukuContext.java, 49]   id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.respon
+    Modify [InputBukuContext.java, 49]   id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.respon
+    Use [InputBukuContext.java, 50]   id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.respon
+    Use [InputBukuContext.java, 50]   id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.respon
+    Use [InputBukuContext.java, 50]   id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.respon
+    Use [InputBukuContext.java, 50]   id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.respon
+    Define [InputBukuContext.java, 49]   id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.respon
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.respon.arg1   (Parameter)
+  Declared as: String
+    Define [InputBukuContext.java, 46]   id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.respon
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat.add   (Variable)
+  Declared as: Scanner=Scanner(System.in)
+    Define [InputMhsContext.java, 22]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat
+    Set [InputMhsContext.java, 22]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat
+    Use [InputMhsContext.java, 23]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat.data_mhs   (Variable)
+  Declared as: int=add.nextInt
+                                                                     Page 23
+                         Object Cross Reference Report
+===============================================================================
+    Define [InputMhsContext.java, 23]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat
+    Set [InputMhsContext.java, 23]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat
+    Use [InputMhsContext.java, 24]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat
+    Use [InputMhsContext.java, 25]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat
+    Use [InputMhsContext.java, 26]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat
+    Use [InputMhsContext.java, 27]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat
+    Use [InputMhsContext.java, 28]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat
+    Use [InputMhsContext.java, 29]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat.fak   (Variable)
+  Declared as: String[]=String[data_mhs]
+    Define [InputMhsContext.java, 28]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat
+    Set [InputMhsContext.java, 28]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat.jur   (Variable)
+  Declared as: String[]=String[data_mhs]
+    Define [InputMhsContext.java, 27]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat
+    Set [InputMhsContext.java, 27]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat.kdAnggota   (Variable)
+  Declared as: String[]=String[data_mhs]
+    Define [InputMhsContext.java, 24]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat
+    Set [InputMhsContext.java, 24]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat.nama   (Variable)
+  Declared as: String[]=String[data_mhs]
+    Define [InputMhsContext.java, 25]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat
+    Set [InputMhsContext.java, 25]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat.nim   (Variable)
+  Declared as: String[]=String[data_mhs]
+    Define [InputMhsContext.java, 26]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat
+    Set [InputMhsContext.java, 26]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat.telp   (Variable)
+  Declared as: String[]=String[data_mhs]
+    Define [InputMhsContext.java, 29]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat
+    Set [InputMhsContext.java, 29]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.memasukkan_data_mahasiswa.(for_loop_1).i   (Variable)
+  Declared as: int=1
+    Set [InputMhsContext.java, 40]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.memasukkan_data_mahasiswa
+    Use [InputMhsContext.java, 40]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.memasukkan_data_mahasiswa
+    Modify [InputMhsContext.java, 40]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.memasukkan_data_mahasiswa
+    Use [InputMhsContext.java, 41]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.memasukkan_data_mahasiswa
+    Use [InputMhsContext.java, 43]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.memasukkan_data_mahasiswa
+    Use [InputMhsContext.java, 45]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.memasukkan_data_mahasiswa
+    Use [InputMhsContext.java, 47]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.memasukkan_data_mahasiswa
+    Use [InputMhsContext.java, 49]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.memasukkan_data_mahasiswa
+    Use [InputMhsContext.java, 51]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.memasukkan_data_mahasiswa
+    Use [InputMhsContext.java, 53]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.memasukkan_data_mahasiswa
+    Define [InputMhsContext.java, 40]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.memasukkan_data_mahasiswa
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.respon.(for_loop_2).i   (Variable)
+  Declared as: int=1
+    Set [InputMhsContext.java, 61]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.respon
+                                                                     Page 24
+                         Object Cross Reference Report
+===============================================================================
+    Use [InputMhsContext.java, 61]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.respon
+    Modify [InputMhsContext.java, 61]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.respon
+    Use [InputMhsContext.java, 62]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.respon
+    Use [InputMhsContext.java, 63]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.respon
+    Use [InputMhsContext.java, 64]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.respon
+    Use [InputMhsContext.java, 65]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.respon
+    Use [InputMhsContext.java, 66]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.respon
+    Use [InputMhsContext.java, 67]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.respon
+    Use [InputMhsContext.java, 68]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.respon
+    Define [InputMhsContext.java, 61]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.respon
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.respon.arg1   (Parameter)
+  Declared as: String
+    Define [InputMhsContext.java, 60]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.respon
+
+id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext.memasukkan_data_login.input   (Variable)
+  Declared as: Scanner=Scanner(System.in)
+    Define [LoginContext.java, 23]   id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext.memasukkan_data_login
+    Set [LoginContext.java, 23]      id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext.memasukkan_data_login
+    Use [LoginContext.java, 25]      id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext.memasukkan_data_login
+    Use [LoginContext.java, 27]      id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext.memasukkan_data_login
+
+id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext.memasukkan_data_login.password   (Variable)
+  Declared as: String
+    Define [LoginContext.java, 22]   id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext.memasukkan_data_login
+    Set [LoginContext.java, 27]      id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext.memasukkan_data_login
+    Use [LoginContext.java, 28]      id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext.memasukkan_data_login
+
+id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext.memasukkan_data_login.result   (Variable)
+  Declared as: boolean=true
+    Define [LoginContext.java, 29]   id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext.memasukkan_data_login
+    Set [LoginContext.java, 29]      id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext.memasukkan_data_login
+
+id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext.memasukkan_data_login.result   (Variable)
+  Declared as: boolean=false
+    Define [LoginContext.java, 31]   id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext.memasukkan_data_login
+    Set [LoginContext.java, 31]      id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext.memasukkan_data_login
+
+id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext.memasukkan_data_login.username   (Variable)
+  Declared as: String
+    Define [LoginContext.java, 21]   id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext.memasukkan_data_login
+    Set [LoginContext.java, 25]      id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext.memasukkan_data_login
+    Use [LoginContext.java, 28]      id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext.memasukkan_data_login
+
+id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext.respon.arg1   (Parameter)
+  Declared as: String
+    Define [LoginContext.java, 36]   id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext.respon
+
+id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext.respon.result   (Variable)
+  Declared as: boolean
+    Define [LoginContext.java, 37]   id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext.respon
+    Set [LoginContext.java, 38]      id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext.respon
+
+judulBuku   (Unknown Variable)
+  Declared as: 
+    Use [RekapData.java, 42]         apaini.rekap_data.showRekap
+                                                                     Page 25
+                         Object Cross Reference Report
+===============================================================================
+    Use [Pengembalian.java, 34]      apaini.pengembalian.addKembali
+
+judulbuku   (Unknown Variable)
+  Declared as: 
+    Use [InputBukuContext.java, 34]   id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.memasukkan_data_buku
+    Use [InputBukuContext.java, 50]   id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.respon
+
+jur   (Unknown Variable)
+  Declared as: 
+    Use [tambah_mahasiswacontext.java, 48]   tambah_mahasiswaContext.memasukkan_data_mahasiswa
+    Use [tambah_mahasiswacontext.java, 65]   tambah_mahasiswaContext.respon
+    Use [InputMhsContext.java, 49]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.memasukkan_data_mahasiswa
+    Use [InputMhsContext.java, 66]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.respon
+
+kdAnggota   (Unknown Variable)
+  Declared as: 
+    Use [tambah_mahasiswacontext.java, 42]   tambah_mahasiswaContext.memasukkan_data_mahasiswa
+    Use [tambah_mahasiswacontext.java, 62]   tambah_mahasiswaContext.respon
+    Use [InputMhsContext.java, 43]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.memasukkan_data_mahasiswa
+    Use [InputMhsContext.java, 63]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.respon
+
+kodeBuku   (Unknown Variable)
+  Declared as: 
+    Use [RekapData.java, 39]         apaini.rekap_data.showRekap
+    Use [Pengembalian.java, 33]      apaini.pengembalian.addKembali
+
+login.login1.login.(for_loop_1).i   (Variable)
+  Declared as: int=0
+    Set [Login_aplikasi.java, 15]    login.login1.login
+    Use [Login_aplikasi.java, 15]    login.login1.login
+    Modify [Login_aplikasi.java, 15]   login.login1.login
+    Use [Login_aplikasi.java, 16]    login.login1.login
+    Use [Login_aplikasi.java, 33]    login.login1.login
+    Define [Login_aplikasi.java, 15]   login.login1.login
+
+login.login1.login.input   (Variable)
+  Declared as: Scanner=Scanner(System.in)
+    Define [Login_aplikasi.java, 10]   login.login1.login
+    Set [Login_aplikasi.java, 10]    login.login1.login
+    Use [Login_aplikasi.java, 18]    login.login1.login
+    Use [Login_aplikasi.java, 20]    login.login1.login
+
+login.login1.login.nilaii   (Variable)
+  Declared as: int=0
+    Define [Login_aplikasi.java, 11]   login.login1.login
+    Set [Login_aplikasi.java, 11]    login.login1.login
+    Set [Login_aplikasi.java, 16]    login.login1.login
+    Use [Login_aplikasi.java, 29]    login.login1.login
+    Use [Login_aplikasi.java, 32]    login.login1.login
+
+login.login1.login.password   (Parameter)
+  Declared as: String
+    Define [Login_aplikasi.java, 9]   login.login1.login
+    Set [Login_aplikasi.java, 20]    login.login1.login
+    Use [Login_aplikasi.java, 22]    login.login1.login
+                                                                     Page 26
+                         Object Cross Reference Report
+===============================================================================
+
+login.login1.login.username   (Parameter)
+  Declared as: String
+    Define [Login_aplikasi.java, 9]   login.login1.login
+    Set [Login_aplikasi.java, 18]    login.login1.login
+    Use [Login_aplikasi.java, 22]    login.login1.login
+    Use [Login_aplikasi.java, 23]    login.login1.login
+
+nama   (Unknown Variable)
+  Declared as: 
+    Use [RekapData.java, 38]         apaini.rekap_data.showRekap
+    Use [tambah_mahasiswacontext.java, 44]   tambah_mahasiswaContext.memasukkan_data_mahasiswa
+    Use [tambah_mahasiswacontext.java, 63]   tambah_mahasiswaContext.respon
+    Use [InputMhsContext.java, 45]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.memasukkan_data_mahasiswa
+    Use [InputMhsContext.java, 64]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.respon
+
+Namapengarang   (Unknown Variable)
+  Declared as: 
+    Use [InputBukuContext.java, 36]   id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.memasukkan_data_buku
+    Use [InputBukuContext.java, 50]   id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.respon
+
+nim   (Unknown Variable)
+  Declared as: 
+    Use [tambah_mahasiswacontext.java, 46]   tambah_mahasiswaContext.memasukkan_data_mahasiswa
+    Use [tambah_mahasiswacontext.java, 64]   tambah_mahasiswaContext.respon
+    Use [InputMhsContext.java, 47]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.memasukkan_data_mahasiswa
+    Use [InputMhsContext.java, 65]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.respon
+
+TahunTerbit   (Unknown Variable)
+  Declared as: 
+    Use [InputBukuContext.java, 38]   id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.memasukkan_data_buku
+    Use [InputBukuContext.java, 50]   id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.respon
+
+tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat.add   (Variable)
+  Declared as: Scanner=Scanner(System.in)
+    Define [tambah_mahasiswacontext.java, 21]   tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat
+    Set [tambah_mahasiswacontext.java, 21]   tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat
+    Use [tambah_mahasiswacontext.java, 22]   tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat
+
+tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat.data_mhs   (Variable)
+  Declared as: int=add.nextInt
+    Define [tambah_mahasiswacontext.java, 22]   tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat
+    Set [tambah_mahasiswacontext.java, 22]   tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat
+    Use [tambah_mahasiswacontext.java, 23]   tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat
+    Use [tambah_mahasiswacontext.java, 24]   tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat
+    Use [tambah_mahasiswacontext.java, 25]   tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat
+    Use [tambah_mahasiswacontext.java, 26]   tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat
+    Use [tambah_mahasiswacontext.java, 27]   tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat
+    Use [tambah_mahasiswacontext.java, 28]   tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat
+
+tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat.fak   (Variable)
+  Declared as: String[]=String[data_mhs]
+    Define [tambah_mahasiswacontext.java, 27]   tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat
+    Set [tambah_mahasiswacontext.java, 27]   tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat
+                                                                     Page 27
+                         Object Cross Reference Report
+===============================================================================
+
+tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat.jur   (Variable)
+  Declared as: String[]=String[data_mhs]
+    Define [tambah_mahasiswacontext.java, 26]   tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat
+    Set [tambah_mahasiswacontext.java, 26]   tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat
+
+tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat.kdAnggota   (Variable)
+  Declared as: String[]=String[data_mhs]
+    Define [tambah_mahasiswacontext.java, 23]   tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat
+    Set [tambah_mahasiswacontext.java, 23]   tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat
+
+tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat.nama   (Variable)
+  Declared as: String[]=String[data_mhs]
+    Define [tambah_mahasiswacontext.java, 24]   tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat
+    Set [tambah_mahasiswacontext.java, 24]   tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat
+
+tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat.nim   (Variable)
+  Declared as: String[]=String[data_mhs]
+    Define [tambah_mahasiswacontext.java, 25]   tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat
+    Set [tambah_mahasiswacontext.java, 25]   tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat
+
+tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat.telp   (Variable)
+  Declared as: String[]=String[data_mhs]
+    Define [tambah_mahasiswacontext.java, 28]   tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat
+    Set [tambah_mahasiswacontext.java, 28]   tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat
+
+tambah_mahasiswaContext.memasukkan_data_mahasiswa.(for_loop_1).i   (Variable)
+  Declared as: int=1
+    Set [tambah_mahasiswacontext.java, 39]   tambah_mahasiswaContext.memasukkan_data_mahasiswa
+    Use [tambah_mahasiswacontext.java, 39]   tambah_mahasiswaContext.memasukkan_data_mahasiswa
+    Modify [tambah_mahasiswacontext.java, 39]   tambah_mahasiswaContext.memasukkan_data_mahasiswa
+    Use [tambah_mahasiswacontext.java, 40]   tambah_mahasiswaContext.memasukkan_data_mahasiswa
+    Use [tambah_mahasiswacontext.java, 42]   tambah_mahasiswaContext.memasukkan_data_mahasiswa
+    Use [tambah_mahasiswacontext.java, 44]   tambah_mahasiswaContext.memasukkan_data_mahasiswa
+    Use [tambah_mahasiswacontext.java, 46]   tambah_mahasiswaContext.memasukkan_data_mahasiswa
+    Use [tambah_mahasiswacontext.java, 48]   tambah_mahasiswaContext.memasukkan_data_mahasiswa
+    Use [tambah_mahasiswacontext.java, 50]   tambah_mahasiswaContext.memasukkan_data_mahasiswa
+    Use [tambah_mahasiswacontext.java, 52]   tambah_mahasiswaContext.memasukkan_data_mahasiswa
+    Define [tambah_mahasiswacontext.java, 39]   tambah_mahasiswaContext.memasukkan_data_mahasiswa
+
+tambah_mahasiswaContext.respon.(for_loop_2).i   (Variable)
+  Declared as: int=1
+    Set [tambah_mahasiswacontext.java, 60]   tambah_mahasiswaContext.respon
+    Use [tambah_mahasiswacontext.java, 60]   tambah_mahasiswaContext.respon
+    Modify [tambah_mahasiswacontext.java, 60]   tambah_mahasiswaContext.respon
+    Use [tambah_mahasiswacontext.java, 61]   tambah_mahasiswaContext.respon
+    Use [tambah_mahasiswacontext.java, 62]   tambah_mahasiswaContext.respon
+    Use [tambah_mahasiswacontext.java, 63]   tambah_mahasiswaContext.respon
+    Use [tambah_mahasiswacontext.java, 64]   tambah_mahasiswaContext.respon
+    Use [tambah_mahasiswacontext.java, 65]   tambah_mahasiswaContext.respon
+    Use [tambah_mahasiswacontext.java, 66]   tambah_mahasiswaContext.respon
+    Use [tambah_mahasiswacontext.java, 67]   tambah_mahasiswaContext.respon
+    Define [tambah_mahasiswacontext.java, 60]   tambah_mahasiswaContext.respon
+
+tambah_mahasiswaContext.respon.arg1   (Parameter)
+  Declared as: String
+                                                                     Page 28
+                         Object Cross Reference Report
+===============================================================================
+    Define [tambah_mahasiswacontext.java, 59]   tambah_mahasiswaContext.respon
+
+telp   (Unknown Variable)
+  Declared as: 
+    Use [tambah_mahasiswacontext.java, 52]   tambah_mahasiswaContext.memasukkan_data_mahasiswa
+    Use [tambah_mahasiswacontext.java, 67]   tambah_mahasiswaContext.respon
+    Use [InputMhsContext.java, 53]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.memasukkan_data_mahasiswa
+    Use [InputMhsContext.java, 68]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.respon
+
+tglKembali   (Unknown Variable)
+  Declared as: 
+    Use [RekapData.java, 44]         apaini.rekap_data.showRekap
+    Use [Pengembalian.java, 36]      apaini.pengembalian.addKembali
+
+tglPinjam   (Unknown Variable)
+  Declared as: 
+    Use [Pengembalian.java, 35]      apaini.pengembalian.addKembali
+
+tubesimpal.Cari_Mahasiswa.cari.(for_loop_1).i   (Variable)
+  Declared as: int=0
+    Set [CariAnggota.java, 21]       tubesimpal.Cari_Mahasiswa.cari
+    Use [CariAnggota.java, 21]       tubesimpal.Cari_Mahasiswa.cari
+    Modify [CariAnggota.java, 21]    tubesimpal.Cari_Mahasiswa.cari
+    Use [CariAnggota.java, 22]       tubesimpal.Cari_Mahasiswa.cari
+    Use [CariAnggota.java, 23]       tubesimpal.Cari_Mahasiswa.cari
+    Define [CariAnggota.java, 21]    tubesimpal.Cari_Mahasiswa.cari
+
+tubesimpal.Cari_Mahasiswa.cari.(for_loop_2).a   (Variable)
+  Declared as: int=1
+    Set [CariAnggota.java, 28]       tubesimpal.Cari_Mahasiswa.cari
+    Use [CariAnggota.java, 28]       tubesimpal.Cari_Mahasiswa.cari
+    Modify [CariAnggota.java, 28]    tubesimpal.Cari_Mahasiswa.cari
+    Use [CariAnggota.java, 29]       tubesimpal.Cari_Mahasiswa.cari
+    Use [CariAnggota.java, 31]       tubesimpal.Cari_Mahasiswa.cari
+    Define [CariAnggota.java, 28]    tubesimpal.Cari_Mahasiswa.cari
+
+tubesimpal.Cari_Mahasiswa.cari.(for_loop_2).s   (Variable)
+  Declared as: int=index
+    Set [CariAnggota.java, 29]       tubesimpal.Cari_Mahasiswa.cari
+    Use [CariAnggota.java, 31]       tubesimpal.Cari_Mahasiswa.cari
+    Use [CariAnggota.java, 31]       tubesimpal.Cari_Mahasiswa.cari
+    Use [CariAnggota.java, 31]       tubesimpal.Cari_Mahasiswa.cari
+    Define [CariAnggota.java, 29]    tubesimpal.Cari_Mahasiswa.cari
+
+tubesimpal.Cari_Mahasiswa.cari.cari   (Variable)
+  Declared as: String=scan.next
+    Define [CariAnggota.java, 19]    tubesimpal.Cari_Mahasiswa.cari
+    Set [CariAnggota.java, 19]       tubesimpal.Cari_Mahasiswa.cari
+    Use [CariAnggota.java, 22]       tubesimpal.Cari_Mahasiswa.cari
+    Use [CariAnggota.java, 36]       tubesimpal.Cari_Mahasiswa.cari
+
+tubesimpal.Cari_Mahasiswa.cari.cari_nim   (Variable)
+  Declared as: int=0
+    Define [CariAnggota.java, 16]    tubesimpal.Cari_Mahasiswa.cari
+    Set [CariAnggota.java, 16]       tubesimpal.Cari_Mahasiswa.cari
+    Use [CariAnggota.java, 23]       tubesimpal.Cari_Mahasiswa.cari
+                                                                     Page 29
+                         Object Cross Reference Report
+===============================================================================
+    Modify [CariAnggota.java, 24]    tubesimpal.Cari_Mahasiswa.cari
+    Use [CariAnggota.java, 26]       tubesimpal.Cari_Mahasiswa.cari
+    Use [CariAnggota.java, 28]       tubesimpal.Cari_Mahasiswa.cari
+
+tubesimpal.Cari_Mahasiswa.cari.index   (Variable)
+  Declared as: int[]=int[data_mhs]
+    Define [CariAnggota.java, 17]    tubesimpal.Cari_Mahasiswa.cari
+    Set [CariAnggota.java, 17]       tubesimpal.Cari_Mahasiswa.cari
+    Set [CariAnggota.java, 23]       tubesimpal.Cari_Mahasiswa.cari
+    Use [CariAnggota.java, 29]       tubesimpal.Cari_Mahasiswa.cari
+    Use [CariAnggota.java, 31]       tubesimpal.Cari_Mahasiswa.cari
+
+tubesimpal.Cari_Mahasiswa.data_mhs   (Variable)
+  Declared as: int=scan.nextInt
+    Define [CariAnggota.java, 10]    tubesimpal.Cari_Mahasiswa
+    Set [CariAnggota.java, 10]       tubesimpal.Cari_Mahasiswa
+    Use [CariAnggota.java, 11]       tubesimpal.Cari_Mahasiswa
+    Use [CariAnggota.java, 12]       tubesimpal.Cari_Mahasiswa
+    Use [CariAnggota.java, 13]       tubesimpal.Cari_Mahasiswa
+    Use [CariAnggota.java, 17]       tubesimpal.Cari_Mahasiswa.cari
+    Use [CariAnggota.java, 21]       tubesimpal.Cari_Mahasiswa.cari
+
+tubesimpal.Cari_Mahasiswa.nama   (Variable)
+  Declared as: String[]=String[data_mhs]
+    Define [CariAnggota.java, 12]    tubesimpal.Cari_Mahasiswa
+    Set [CariAnggota.java, 12]       tubesimpal.Cari_Mahasiswa
+    Use [CariAnggota.java, 31]       tubesimpal.Cari_Mahasiswa.cari
+
+tubesimpal.Cari_Mahasiswa.nim   (Variable)
+  Declared as: String[]=String[data_mhs]
+    Define [CariAnggota.java, 11]    tubesimpal.Cari_Mahasiswa
+    Set [CariAnggota.java, 11]       tubesimpal.Cari_Mahasiswa
+    Use [CariAnggota.java, 22]       tubesimpal.Cari_Mahasiswa.cari
+    Use [CariAnggota.java, 31]       tubesimpal.Cari_Mahasiswa.cari
+
+tubesimpal.Cari_Mahasiswa.scan   (Variable)
+  Declared as: Scanner=Scanner(System.in)
+    Define [CariAnggota.java, 9]     tubesimpal.Cari_Mahasiswa
+    Set [CariAnggota.java, 9]        tubesimpal.Cari_Mahasiswa
+    Use [CariAnggota.java, 10]       tubesimpal.Cari_Mahasiswa
+    Use [CariAnggota.java, 19]       tubesimpal.Cari_Mahasiswa.cari
+
+tubesimpal.Cari_Mahasiswa.semester   (Variable)
+  Declared as: String[]=String[data_mhs]
+    Define [CariAnggota.java, 13]    tubesimpal.Cari_Mahasiswa
+    Set [CariAnggota.java, 13]       tubesimpal.Cari_Mahasiswa
+    Use [CariAnggota.java, 31]       tubesimpal.Cari_Mahasiswa.cari
+
+tubesimpal.PengembalianContext.memasukkan_data_pengembalian.(for_loop_1).i   (Variable)
+  Declared as: int=1
+    Set [PengembalianContext.java, 25]   tubesimpal.PengembalianContext.memasukkan_data_pengembalian
+    Use [PengembalianContext.java, 25]   tubesimpal.PengembalianContext.memasukkan_data_pengembalian
+    Modify [PengembalianContext.java, 25]   tubesimpal.PengembalianContext.memasukkan_data_pengembalian
+    Use [PengembalianContext.java, 27]   tubesimpal.PengembalianContext.memasukkan_data_pengembalian
+    Define [PengembalianContext.java, 25]   tubesimpal.PengembalianContext.memasukkan_data_pengembalian
+                                                                     Page 30
+                         Object Cross Reference Report
+===============================================================================
+
+tubesimpal.PengembalianContext.memasukkan_data_pengembalian.add   (Variable)
+  Declared as: Scanner=Scanner(System.in)
+    Define [PengembalianContext.java, 19]   tubesimpal.PengembalianContext.memasukkan_data_pengembalian
+    Set [PengembalianContext.java, 19]   tubesimpal.PengembalianContext.memasukkan_data_pengembalian
+    Use [PengembalianContext.java, 20]   tubesimpal.PengembalianContext.memasukkan_data_pengembalian
+    Use [PengembalianContext.java, 27]   tubesimpal.PengembalianContext.memasukkan_data_pengembalian
+
+tubesimpal.PengembalianContext.memasukkan_data_pengembalian.data_kembali   (Variable)
+  Declared as: int=add.nextInt
+    Define [PengembalianContext.java, 20]   tubesimpal.PengembalianContext.memasukkan_data_pengembalian
+    Set [PengembalianContext.java, 20]   tubesimpal.PengembalianContext.memasukkan_data_pengembalian
+    Use [PengembalianContext.java, 21]   tubesimpal.PengembalianContext.memasukkan_data_pengembalian
+    Use [PengembalianContext.java, 22]   tubesimpal.PengembalianContext.memasukkan_data_pengembalian
+    Use [PengembalianContext.java, 23]   tubesimpal.PengembalianContext.memasukkan_data_pengembalian
+    Use [PengembalianContext.java, 24]   tubesimpal.PengembalianContext.memasukkan_data_pengembalian
+    Use [PengembalianContext.java, 25]   tubesimpal.PengembalianContext.memasukkan_data_pengembalian
+    Use [PengembalianContext.java, 28]   tubesimpal.PengembalianContext.memasukkan_data_pengembalian
+
+tubesimpal.PengembalianContext.memasukkan_data_pengembalian.kdAnggota   (Variable)
+  Declared as: String[]=String[data_kembali]
+    Define [PengembalianContext.java, 21]   tubesimpal.PengembalianContext.memasukkan_data_pengembalian
+    Set [PengembalianContext.java, 21]   tubesimpal.PengembalianContext.memasukkan_data_pengembalian
+    Set [PengembalianContext.java, 27]   tubesimpal.PengembalianContext.memasukkan_data_pengembalian
+    Use [PengembalianContext.java, 28]   tubesimpal.PengembalianContext.memasukkan_data_pengembalian
+    Use [PengembalianContext.java, 28]   tubesimpal.PengembalianContext.memasukkan_data_pengembalian
+
+tubesimpal.PengembalianContext.memasukkan_data_pengembalian.kodeBuku   (Variable)
+  Declared as: String[]=String[data_kembali]
+    Define [PengembalianContext.java, 22]   tubesimpal.PengembalianContext.memasukkan_data_pengembalian
+    Set [PengembalianContext.java, 22]   tubesimpal.PengembalianContext.memasukkan_data_pengembalian
+
+tubesimpal.PengembalianContext.memasukkan_data_pengembalian.tglKembali   (Variable)
+  Declared as: String[]=String[data_kembali]
+    Define [PengembalianContext.java, 23]   tubesimpal.PengembalianContext.memasukkan_data_pengembalian
+    Set [PengembalianContext.java, 23]   tubesimpal.PengembalianContext.memasukkan_data_pengembalian
+
+tubesimpal.PengembalianContext.memasukkan_data_pengembalian.tglPinjam   (Variable)
+  Declared as: String[]=String[data_kembali]
+    Define [PengembalianContext.java, 24]   tubesimpal.PengembalianContext.memasukkan_data_pengembalian
+    Set [PengembalianContext.java, 24]   tubesimpal.PengembalianContext.memasukkan_data_pengembalian
+
+tubesimpal.PengembalianContext.respon.arg1   (Parameter)
+  Declared as: String
+    Define [PengembalianContext.java, 34]   tubesimpal.PengembalianContext.respon
+
+tubesimpal.PengembalianContext.respon.result   (Variable)
+  Declared as: boolean
+    Define [PengembalianContext.java, 35]   tubesimpal.PengembalianContext.respon
+    Set [PengembalianContext.java, 36]   tubesimpal.PengembalianContext.respon
+                                                                     Page 31
+                          Type Cross Reference Report
+===============================================================================
+
+apaini.peminjaman   (Public Class)
+  Declared as: 
+    Define [Peminjaman.java, 15]     Peminjaman.java
+
+apaini.pengembalian   (Public Class)
+  Declared as: 
+    Define [Pengembalian.java, 15]   Pengembalian.java
+
+apaini.rekap_data   (Public Class)
+  Declared as: 
+    Define [RekapData.java, 15]      RekapData.java
+
+apaini.tambah_mahasiswa   (Public Class)
+  Declared as: 
+    Define [tambah_mahasiswa.java, 15]   tambah_mahasiswa.java
+
+cucumber.api.java.bm.Maka   (Unknown Class)
+  Declared as: 
+    Import [InputBukuContext.java, 9]   InputBukuContext.java
+    Use [InputBukuContext.java, 45]   id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext
+    Import [tambah_mahasiswacontext.java, 8]   tambah_mahasiswacontext.java
+    Use [tambah_mahasiswacontext.java, 58]   tambah_mahasiswaContext
+    Import [PengembalianContext.java, 8]   PengembalianContext.java
+    Use [PengembalianContext.java, 33]   tubesimpal.PengembalianContext
+    Import [InputMhsContext.java, 9]   InputMhsContext.java
+    Use [InputMhsContext.java, 59]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext
+    Import [LoginContext.java, 9]    LoginContext.java
+    Use [LoginContext.java, 35]      id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext
+
+cucumber.api.java.id.Dengan   (Unknown Class)
+  Declared as: 
+    Import [InputBukuContext.java, 10]   InputBukuContext.java
+    Use [InputBukuContext.java, 19]   id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext
+    Import [tambah_mahasiswacontext.java, 9]   tambah_mahasiswacontext.java
+    Use [tambah_mahasiswacontext.java, 19]   tambah_mahasiswaContext
+    Import [PengembalianContext.java, 9]   PengembalianContext.java
+    Import [InputMhsContext.java, 10]   InputMhsContext.java
+    Use [InputMhsContext.java, 20]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext
+    Import [LoginContext.java, 10]   LoginContext.java
+
+cucumber.api.java.id.Ketika   (Unknown Class)
+  Declared as: 
+    Import [InputBukuContext.java, 11]   InputBukuContext.java
+    Use [InputBukuContext.java, 29]   id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext
+    Import [tambah_mahasiswacontext.java, 10]   tambah_mahasiswacontext.java
+    Use [tambah_mahasiswacontext.java, 33]   tambah_mahasiswaContext
+    Import [PengembalianContext.java, 10]   PengembalianContext.java
+    Use [PengembalianContext.java, 17]   tubesimpal.PengembalianContext
+    Import [InputMhsContext.java, 11]   InputMhsContext.java
+    Use [InputMhsContext.java, 34]   id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext
+    Import [LoginContext.java, 11]   LoginContext.java
+    Use [LoginContext.java, 19]      id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext
+
+cucumber.api.PendingException   (Unknown Class)
+  Declared as: 
+    Import [InputBukuContext.java, 8]   InputBukuContext.java
+    Import [tambah_mahasiswacontext.java, 7]   tambah_mahasiswacontext.java
+    Import [PengembalianContext.java, 7]   PengembalianContext.java
+    Import [InputMhsContext.java, 8]   InputMhsContext.java
+    Import [LoginContext.java, 8]    LoginContext.java
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext   (Public Class)
+  Declared as: 
+    Define [InputBukuContext.java, 18]   InputBukuContext.java
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext   (Public Class)
+  Declared as: 
+    Define [InputMhsContext.java, 19]   InputMhsContext.java
+
+id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext   (Public Class)
+  Declared as: 
+    Define [LoginContext.java, 18]   LoginContext.java
+
+login.login1   (Public Class)
+  Declared as: 
+    Define [Login_aplikasi.java, 8]   Login_aplikasi.java
+
+tambah_mahasiswaContext   (Public Class)
+  Declared as: 
+    Define [tambah_mahasiswacontext.java, 18]   tambah_mahasiswacontext.java
+
+tubesimpal.Cari_Mahasiswa   (Public Class)
+  Declared as: 
+    Define [CariAnggota.java, 8]     CariAnggota.java
+
+tubesimpal.PengembalianContext   (Public Class)
+  Declared as: 
+    Define [PengembalianContext.java, 16]   PengembalianContext.java
+                                                                     Page 32
+                            Declaration Tree Report
+===============================================================================
+
+(Unnamed_Package)   (Package)
+| tambah_mahasiswaContext   (Public Class)
+| | tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat   (Public Method)
+| | tambah_mahasiswaContext.memasukkan_data_mahasiswa   (Public Method)
+| | tambah_mahasiswaContext.respon   (Public Method)
+
+apaini   (Package)
+| apaini.peminjaman   (Public Class)
+| | peminjaman.addPinjam   (Public Method)
+| | peminjaman.showdata   (Public Method)
+| apaini.rekap_data   (Public Class)
+| | rekap_data.showRekap   (Public Method)
+| apaini.tambah_mahasiswa   (Public Class)
+| | tambah_mahasiswa.addMhs   (Public Method)
+| | tambah_mahasiswa.showdata   (Public Method)
+| apaini.pengembalian   (Public Class)
+| | pengembalian.addKembali   (Public Method)
+
+id   (Package)
+
+id.impal   (Package)
+
+id.impal.besokbubar   (Package)
+
+id.impal.besokbubar.sisteminformasiperpustakaan   (Package)
+| sisteminformasiperpustakaan.InputBukuContext   (Public Class)
+| | InputBukuContext.data_buku_baru_yang_akan_dimasukkan_dan_tidak_duplikat   (Public Method)
+| | InputBukuContext.memasukkan_data_buku   (Public Method)
+| | InputBukuContext.respon   (Public Method)
+| sisteminformasiperpustakaan.InputMhsContext   (Public Class)
+| | InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat   (Public Method)
+| | InputMhsContext.memasukkan_data_mahasiswa   (Public Method)
+| | InputMhsContext.respon   (Public Method)
+| sisteminformasiperpustakaan.LoginContext   (Public Class)
+| | LoginContext.memasukkan_data_login   (Public Method)
+| | LoginContext.respon   (Public Method)
+
+login   (Package)
+| login.login1   (Public Class)
+| | login1.login   (Public Method)
+
+tubesimpal   (Package)
+| tubesimpal.Cari_Mahasiswa   (Public Class)
+| | Cari_Mahasiswa.cari   (Public Method)
+| tubesimpal.PengembalianContext   (Public Class)
+| | PengembalianContext.memasukkan_data_pengembalian   (Public Method)
+| | PengembalianContext.respon   (Public Method)
+
+Z:\demo\impal\IMPAL-SistemInformasiPerpustakaan\CariAnggota.java   (File)
+| tubesimpal.Cari_Mahasiswa   (Public Class)
+| | Cari_Mahasiswa.cari   (Public Method)
+
+Z:\demo\impal\IMPAL-SistemInformasiPerpustakaan\InputBukuContext.java   (File)
+| sisteminformasiperpustakaan.InputBukuContext   (Public Class)
+                                                                     Page 33
+                            Declaration Tree Report
+===============================================================================
+| | InputBukuContext.data_buku_baru_yang_akan_dimasukkan_dan_tidak_duplikat   (Public Method)
+| | InputBukuContext.memasukkan_data_buku   (Public Method)
+| | InputBukuContext.respon   (Public Method)
+
+Z:\demo\impal\IMPAL-SistemInformasiPerpustakaan\InputMhsContext.java   (File)
+| sisteminformasiperpustakaan.InputMhsContext   (Public Class)
+| | InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat   (Public Method)
+| | InputMhsContext.memasukkan_data_mahasiswa   (Public Method)
+| | InputMhsContext.respon   (Public Method)
+
+Z:\demo\impal\IMPAL-SistemInformasiPerpustakaan\Login_aplikasi.java   (File)
+| login.login1   (Public Class)
+| | login1.login   (Public Method)
+
+Z:\demo\impal\IMPAL-SistemInformasiPerpustakaan\LoginContext.java   (File)
+| sisteminformasiperpustakaan.LoginContext   (Public Class)
+| | LoginContext.memasukkan_data_login   (Public Method)
+| | LoginContext.respon   (Public Method)
+
+Z:\demo\impal\IMPAL-SistemInformasiPerpustakaan\Peminjaman.java   (File)
+| apaini.peminjaman   (Public Class)
+| | peminjaman.addPinjam   (Public Method)
+| | peminjaman.showdata   (Public Method)
+
+Z:\demo\impal\IMPAL-SistemInformasiPerpustakaan\Pengembalian.java   (File)
+| apaini.pengembalian   (Public Class)
+| | pengembalian.addKembali   (Public Method)
+
+Z:\demo\impal\IMPAL-SistemInformasiPerpustakaan\PengembalianContext.java   (File)
+| tubesimpal.PengembalianContext   (Public Class)
+| | PengembalianContext.memasukkan_data_pengembalian   (Public Method)
+| | PengembalianContext.respon   (Public Method)
+
+Z:\demo\impal\IMPAL-SistemInformasiPerpustakaan\RekapData.java   (File)
+| apaini.rekap_data   (Public Class)
+| | rekap_data.showRekap   (Public Method)
+
+Z:\demo\impal\IMPAL-SistemInformasiPerpustakaan\RekapDataContext.java   (File)
+
+Z:\demo\impal\IMPAL-SistemInformasiPerpustakaan\tambah_mahasiswa.java   (File)
+| apaini.tambah_mahasiswa   (Public Class)
+| | tambah_mahasiswa.addMhs   (Public Method)
+| | tambah_mahasiswa.showdata   (Public Method)
+
+Z:\demo\impal\IMPAL-SistemInformasiPerpustakaan\tambah_mahasiswacontext.java   (File)
+| tambah_mahasiswaContext   (Public Class)
+| | tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat   (Public Method)
+| | tambah_mahasiswaContext.memasukkan_data_mahasiswa   (Public Method)
+| | tambah_mahasiswaContext.respon   (Public Method)
+                                                                     Page 34
+                         Simple Invocation Tree Report
+===============================================================================
+
+apaini.peminjaman
+| java.util.Scanner.Scanner
+| java.util.Scanner.nextInt
+
+apaini.peminjaman.addPinjam
+| java.io.PrintStream.println
+| java.util.Scanner.next
+
+apaini.peminjaman.showdata
+| java.io.PrintStream.println
+| java.io.PrintStream.println
+
+apaini.pengembalian
+| java.util.Scanner.Scanner
+| java.util.Scanner.nextInt
+
+apaini.pengembalian.addKembali
+| java.io.PrintStream.println
+| java.util.Scanner.next
+
+apaini.rekap_data
+| java.util.Scanner.Scanner
+| java.util.Scanner.nextInt
+
+apaini.rekap_data.showRekap
+| java.io.PrintStream.println
+| java.util.Scanner.next
+
+apaini.tambah_mahasiswa
+| java.util.Scanner.Scanner
+| java.util.Scanner.nextInt
+
+apaini.tambah_mahasiswa.addMhs
+| java.io.PrintStream.println
+| java.util.Scanner.next
+
+apaini.tambah_mahasiswa.showdata
+| java.io.PrintStream.println
+| java.io.PrintStream.println
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.data_buku_baru_yang_akan_dimasukkan_dan_tidak_duplikat
+| java.util.Scanner.Scanner
+| java.util.Scanner.nextInt
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.memasukkan_data_buku
+| java.io.PrintStream.println
+| next
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.respon
+| java.io.PrintStream.println
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat
+| java.util.Scanner.Scanner
+| java.util.Scanner.nextInt
+                                                                     Page 35
+                         Simple Invocation Tree Report
+===============================================================================
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.memasukkan_data_mahasiswa
+| java.io.PrintStream.println
+| next
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.respon
+| java.io.PrintStream.println
+| java.io.PrintStream.println
+
+id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext.memasukkan_data_login
+| java.util.Scanner.Scanner
+| java.io.PrintStream.print
+| java.util.Scanner.next
+| java.lang.String.equals
+
+id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext.respon
+| java.io.PrintStream.println
+
+login.login1.login
+| java.util.Scanner.Scanner
+| java.io.PrintStream.println
+| java.io.PrintStream.print
+| java.util.Scanner.next
+| java.lang.String.equals
+
+tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat
+| java.util.Scanner.Scanner
+| java.util.Scanner.nextInt
+
+tambah_mahasiswaContext.memasukkan_data_mahasiswa
+| java.io.PrintStream.println
+| next
+
+tambah_mahasiswaContext.respon
+| java.io.PrintStream.println
+| java.io.PrintStream.println
+
+tubesimpal.Cari_Mahasiswa
+| java.util.Scanner.Scanner
+| java.util.Scanner.nextInt
+
+tubesimpal.Cari_Mahasiswa.cari
+| java.io.PrintStream.println
+| java.io.PrintStream.print
+| java.util.Scanner.next
+| java.lang.String.equals
+
+tubesimpal.PengembalianContext.memasukkan_data_pengembalian
+| java.util.Scanner.Scanner
+| java.util.Scanner.nextInt
+| java.io.PrintStream.println
+| java.util.Scanner.next
+
+tubesimpal.PengembalianContext.respon
+| java.io.PrintStream.println
+                                                                     Page 36
+                                 Imports Report
+===============================================================================
+
+CariAnggota.java
+| java.lang
+| java.util.Scanner
+
+InputBukuContext.java
+| java.lang
+| java.util.Scanner
+| cucumber.api.PendingException
+| cucumber.api.java.bm.Maka
+| cucumber.api.java.id.Dengan
+| cucumber.api.java.id.Ketika
+
+InputMhsContext.java
+| java.lang
+| java.util.Scanner
+| cucumber.api.PendingException
+| cucumber.api.java.bm.Maka
+| cucumber.api.java.id.Dengan
+| cucumber.api.java.id.Ketika
+
+Login_aplikasi.java
+| java.lang
+| java.util.Scanner
+| javax.swing.JOptionPane
+
+LoginContext.java
+| java.lang
+| java.util.Scanner
+| cucumber.api.PendingException
+| cucumber.api.java.bm.Maka
+| cucumber.api.java.id.Dengan
+| cucumber.api.java.id.Ketika
+
+Peminjaman.java
+| java.lang
+| java.util.Scanner
+
+Pengembalian.java
+| java.lang
+| java.util.Scanner
+
+PengembalianContext.java
+| java.lang
+| java.util.Scanner
+| cucumber.api.PendingException
+| cucumber.api.java.bm.Maka
+| cucumber.api.java.id.Dengan
+| cucumber.api.java.id.Ketika
+
+RekapData.java
+| java.lang
+| java.util.Scanner
+
+RekapDataContext.java
+                                                                     Page 37
+                                 Imports Report
+===============================================================================
+| java.lang
+
+tambah_mahasiswa.java
+| java.lang
+| java.util.Scanner
+
+tambah_mahasiswacontext.java
+| java.lang
+| java.util.Scanner
+| cucumber.api.PendingException
+| cucumber.api.java.bm.Maka
+| cucumber.api.java.id.Dengan
+| cucumber.api.java.id.Ketika
+                                                                     Page 38
+                         Program Unit Complexity Report
+===============================================================================
+
+apaini.peminjaman.addPinjam
+   Cyclomatic:                        4
+   Modified Cyclomatic:               4
+   Strict Cyclomatic:                 4
+   Essential:                         1
+   Max Nesting:                       2
+   Count Path:                        5
+   Count Path Log:                        1
+
+apaini.peminjaman.showdata
+   Cyclomatic:                        2
+   Modified Cyclomatic:               2
+   Strict Cyclomatic:                 2
+   Essential:                         1
+   Max Nesting:                       1
+   Count Path:                        2
+   Count Path Log:                        0
+
+apaini.pengembalian.addKembali
+   Cyclomatic:                        3
+   Modified Cyclomatic:               3
+   Strict Cyclomatic:                 3
+   Essential:                         1
+   Max Nesting:                       2
+   Count Path:                        3
+   Count Path Log:                        0
+
+apaini.rekap_data.showRekap
+   Cyclomatic:                        4
+   Modified Cyclomatic:               4
+   Strict Cyclomatic:                 4
+   Essential:                         1
+   Max Nesting:                       2
+   Count Path:                        5
+   Count Path Log:                        1
+
+apaini.tambah_mahasiswa.addMhs
+   Cyclomatic:                        2
+   Modified Cyclomatic:               2
+   Strict Cyclomatic:                 2
+   Essential:                         1
+   Max Nesting:                       1
+   Count Path:                        2
+   Count Path Log:                        0
+
+apaini.tambah_mahasiswa.showdata
+   Cyclomatic:                        2
+   Modified Cyclomatic:               2
+   Strict Cyclomatic:                 2
+   Essential:                         1
+   Max Nesting:                       1
+   Count Path:                        2
+   Count Path Log:                        0
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.data_buku_baru_yang_akan_dimasukkan_dan_tidak_duplikat
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+                                                                     Page 39
+                         Program Unit Complexity Report
+===============================================================================
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.memasukkan_data_buku
+   Cyclomatic:                        2
+   Modified Cyclomatic:               2
+   Strict Cyclomatic:                 2
+   Essential:                         1
+   Max Nesting:                       1
+   Count Path:                        2
+   Count Path Log:                        0
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.respon
+   Cyclomatic:                        2
+   Modified Cyclomatic:               2
+   Strict Cyclomatic:                 2
+   Essential:                         1
+   Max Nesting:                       1
+   Count Path:                        2
+   Count Path Log:                        0
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.memasukkan_data_mahasiswa
+   Cyclomatic:                        2
+   Modified Cyclomatic:               2
+   Strict Cyclomatic:                 2
+   Essential:                         1
+   Max Nesting:                       1
+   Count Path:                        2
+   Count Path Log:                        0
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.respon
+   Cyclomatic:                        2
+   Modified Cyclomatic:               2
+   Strict Cyclomatic:                 2
+   Essential:                         1
+   Max Nesting:                       1
+   Count Path:                        2
+   Count Path Log:                        0
+
+id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext.memasukkan_data_login
+   Cyclomatic:                        2
+   Modified Cyclomatic:               2
+   Strict Cyclomatic:                 3
+   Essential:                         1
+   Max Nesting:                       1
+   Count Path:                        2
+   Count Path Log:                        0
+
+id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext.respon
+   Cyclomatic:                        2
+   Modified Cyclomatic:               2
+   Strict Cyclomatic:                 2
+   Essential:                         1
+   Max Nesting:                       1
+   Count Path:                        2
+   Count Path Log:                        0
+                                                                     Page 40
+                         Program Unit Complexity Report
+===============================================================================
+
+login.login1.login
+   Cyclomatic:                        4
+   Modified Cyclomatic:               4
+   Strict Cyclomatic:                 5
+   Essential:                         3
+   Max Nesting:                       2
+   Count Path:                        5
+   Count Path Log:                        1
+
+tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+tambah_mahasiswaContext.memasukkan_data_mahasiswa
+   Cyclomatic:                        2
+   Modified Cyclomatic:               2
+   Strict Cyclomatic:                 2
+   Essential:                         1
+   Max Nesting:                       1
+   Count Path:                        2
+   Count Path Log:                        0
+
+tambah_mahasiswaContext.respon
+   Cyclomatic:                        2
+   Modified Cyclomatic:               2
+   Strict Cyclomatic:                 2
+   Essential:                         1
+   Max Nesting:                       1
+   Count Path:                        2
+   Count Path Log:                        0
+
+tubesimpal.Cari_Mahasiswa.cari
+   Cyclomatic:                        5
+   Modified Cyclomatic:               5
+   Strict Cyclomatic:                 5
+   Essential:                         1
+   Max Nesting:                       2
+   Count Path:                        9
+   Count Path Log:                        1
+
+tubesimpal.PengembalianContext.memasukkan_data_pengembalian
+   Cyclomatic:                        3
+   Modified Cyclomatic:               3
+   Strict Cyclomatic:                 3
+   Essential:                         1
+   Max Nesting:                       2
+   Count Path:                        3
+   Count Path Log:                        0
+
+tubesimpal.PengembalianContext.respon
+   Cyclomatic:                        2
+   Modified Cyclomatic:               2
+   Strict Cyclomatic:                 2
+   Essential:                         1
+   Max Nesting:                       1
+   Count Path:                        2
+   Count Path Log:                        0
+                                                                     Page 41
+                         Project Metrics Summary Report
+===============================================================================
+Classes:                     11
+Files:                       12
+Program Units:               21
+Lines:                      633
+Lines Blank:                 44
+Lines Code:                 439
+Lines Comment:              150
+Lines Inactive:               0
+Executable Statements:      224
+Declarative Statements:     168
+Ratio Comment/Code:        0.34
+                                                                     Page 42
+                              Program Unit Metrics
+===============================================================================
+
+apaini.peminjaman.addPinjam (Public Method)
+   Lines:                   32
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              32
+   Inactive Lines:          0
+   Executable Code Lines:   29
+   Declarative Code Lines:  1
+   Execution Statements:    28
+   Declaration Statements:  2
+   Ratio Comment/Code:      0.00
+
+apaini.peminjaman.showdata (Public Method)
+   Lines:                   12
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              12
+   Inactive Lines:          0
+   Executable Code Lines:   9
+   Declarative Code Lines:  1
+   Execution Statements:    10
+   Declaration Statements:  2
+   Ratio Comment/Code:      0.00
+
+apaini.pengembalian.addKembali (Public Method)
+   Lines:                   19
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              19
+   Inactive Lines:          0
+   Executable Code Lines:   15
+   Declarative Code Lines:  1
+   Execution Statements:    14
+   Declaration Statements:  2
+   Ratio Comment/Code:      0.00
+
+apaini.rekap_data.showRekap (Public Method)
+   Lines:                   21
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              21
+   Inactive Lines:          0
+   Executable Code Lines:   18
+   Declarative Code Lines:  1
+   Execution Statements:    17
+   Declaration Statements:  2
+   Ratio Comment/Code:      0.00
+
+apaini.tambah_mahasiswa.addMhs (Public Method)
+   Lines:                   22
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              22
+   Inactive Lines:          0
+   Executable Code Lines:   19
+   Declarative Code Lines:  1
+   Execution Statements:    20
+   Declaration Statements:  2
+   Ratio Comment/Code:      0.00
+                                                                     Page 43
+                              Program Unit Metrics
+===============================================================================
+
+apaini.tambah_mahasiswa.showdata (Public Method)
+   Lines:                   11
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              11
+   Inactive Lines:          0
+   Executable Code Lines:   8
+   Declarative Code Lines:  1
+   Execution Statements:    9
+   Declaration Statements:  2
+   Ratio Comment/Code:      0.00
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.data_buku_baru_yang_akan_dimasukkan_dan_tidak_duplikat (Public Method)
+   Lines:                   8
+   Comment Lines:           1
+   Blank Lines:             0
+   Code Lines:              7
+   Inactive Lines:          0
+   Executable Code Lines:   5
+   Declarative Code Lines:  6
+   Execution Statements:    0
+   Declaration Statements:  6
+   Ratio Comment/Code:      0.14
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.memasukkan_data_buku (Public Method)
+   Lines:                   14
+   Comment Lines:           1
+   Blank Lines:             0
+   Code Lines:              13
+   Inactive Lines:          0
+   Executable Code Lines:   10
+   Declarative Code Lines:  1
+   Execution Statements:    11
+   Declaration Statements:  2
+   Ratio Comment/Code:      0.08
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.respon (Public Method)
+   Lines:                   9
+   Comment Lines:           1
+   Blank Lines:             0
+   Code Lines:              8
+   Inactive Lines:          0
+   Executable Code Lines:   5
+   Declarative Code Lines:  1
+   Execution Statements:    6
+   Declaration Statements:  2
+   Ratio Comment/Code:      0.13
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat (Public Method)
+   Lines:                   12
+   Comment Lines:           1
+   Blank Lines:             1
+   Code Lines:              10
+   Inactive Lines:          0
+   Executable Code Lines:   8
+   Declarative Code Lines:  9
+   Execution Statements:    0
+   Declaration Statements:  9
+   Ratio Comment/Code:      0.10
+                                                                     Page 44
+                              Program Unit Metrics
+===============================================================================
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.memasukkan_data_mahasiswa (Public Method)
+   Lines:                   23
+   Comment Lines:           1
+   Blank Lines:             0
+   Code Lines:              22
+   Inactive Lines:          0
+   Executable Code Lines:   19
+   Declarative Code Lines:  1
+   Execution Statements:    20
+   Declaration Statements:  2
+   Ratio Comment/Code:      0.05
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.respon (Public Method)
+   Lines:                   12
+   Comment Lines:           1
+   Blank Lines:             0
+   Code Lines:              11
+   Inactive Lines:          0
+   Executable Code Lines:   8
+   Declarative Code Lines:  1
+   Execution Statements:    9
+   Declaration Statements:  2
+   Ratio Comment/Code:      0.09
+
+id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext.memasukkan_data_login (Public Method)
+   Lines:                   14
+   Comment Lines:           1
+   Blank Lines:             0
+   Code Lines:              13
+   Inactive Lines:          0
+   Executable Code Lines:   9
+   Declarative Code Lines:  6
+   Execution Statements:    5
+   Declaration Statements:  6
+   Ratio Comment/Code:      0.08
+
+id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext.respon (Public Method)
+   Lines:                   9
+   Comment Lines:           1
+   Blank Lines:             0
+   Code Lines:              8
+   Inactive Lines:          0
+   Executable Code Lines:   4
+   Declarative Code Lines:  2
+   Execution Statements:    3
+   Declaration Statements:  2
+   Ratio Comment/Code:      0.13
+
+login.login1.login (Public Method)
+   Lines:                   28
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              28
+   Inactive Lines:          0
+   Executable Code Lines:   22
+   Declarative Code Lines:  3
+   Execution Statements:    20
+   Declaration Statements:  4
+   Ratio Comment/Code:      0.00
+                                                                     Page 45
+                              Program Unit Metrics
+===============================================================================
+
+tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat (Public Method)
+   Lines:                   12
+   Comment Lines:           1
+   Blank Lines:             1
+   Code Lines:              10
+   Inactive Lines:          0
+   Executable Code Lines:   8
+   Declarative Code Lines:  9
+   Execution Statements:    0
+   Declaration Statements:  9
+   Ratio Comment/Code:      0.10
+
+tambah_mahasiswaContext.memasukkan_data_mahasiswa (Public Method)
+   Lines:                   23
+   Comment Lines:           1
+   Blank Lines:             0
+   Code Lines:              22
+   Inactive Lines:          0
+   Executable Code Lines:   19
+   Declarative Code Lines:  1
+   Execution Statements:    20
+   Declaration Statements:  2
+   Ratio Comment/Code:      0.05
+
+tambah_mahasiswaContext.respon (Public Method)
+   Lines:                   12
+   Comment Lines:           1
+   Blank Lines:             0
+   Code Lines:              11
+   Inactive Lines:          0
+   Executable Code Lines:   8
+   Declarative Code Lines:  1
+   Execution Statements:    9
+   Declaration Statements:  2
+   Ratio Comment/Code:      0.09
+
+tubesimpal.Cari_Mahasiswa.cari (Public Method)
+   Lines:                   24
+   Comment Lines:           0
+   Blank Lines:             1
+   Code Lines:              23
+   Inactive Lines:          0
+   Executable Code Lines:   17
+   Declarative Code Lines:  5
+   Execution Statements:    15
+   Declaration Statements:  7
+   Ratio Comment/Code:      0.00
+
+tubesimpal.PengembalianContext.memasukkan_data_pengembalian (Public Method)
+   Lines:                   15
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              15
+   Inactive Lines:          0
+   Executable Code Lines:   13
+   Declarative Code Lines:  7
+   Execution Statements:    5
+   Declaration Statements:  8
+   Ratio Comment/Code:      0.00
+                                                                     Page 46
+                              Program Unit Metrics
+===============================================================================
+
+tubesimpal.PengembalianContext.respon (Public Method)
+   Lines:                   8
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              8
+   Inactive Lines:          0
+   Executable Code Lines:   4
+   Declarative Code Lines:  2
+   Execution Statements:    3
+   Declaration Statements:  2
+   Ratio Comment/Code:      0.00
+                                                                     Page 47
+                                  File Metrics
+===============================================================================
+
+CariAnggota.java
+   Lines:                   39
+   Comment Lines:           4
+   Blank Lines:             3
+   Preprocessor Lines:      0
+   Code Lines:              32
+   Inactive Lines:          0
+   Executable Code Lines:   22
+   Declarative Code Lines:  13
+   Execution Statements:    15
+   Declaration Statements:  15
+   Ratio Comment/Code:      0.13
+   Units                    1
+
+InputBukuContext.java
+   Lines:                   55
+   Comment Lines:           12
+   Blank Lines:             4
+   Preprocessor Lines:      0
+   Code Lines:              39
+   Inactive Lines:          0
+   Executable Code Lines:   20
+   Declarative Code Lines:  18
+   Execution Statements:    17
+   Declaration Statements:  17
+   Ratio Comment/Code:      0.31
+   Units                    3
+
+InputMhsContext.java
+   Lines:                   72
+   Comment Lines:           12
+   Blank Lines:             6
+   Preprocessor Lines:      0
+   Code Lines:              54
+   Inactive Lines:          0
+   Executable Code Lines:   35
+   Declarative Code Lines:  21
+   Execution Statements:    29
+   Declaration Statements:  20
+   Ratio Comment/Code:      0.22
+   Units                    3
+
+Login_aplikasi.java
+   Lines:                   37
+   Comment Lines:           4
+   Blank Lines:             0
+   Preprocessor Lines:      0
+   Code Lines:              33
+   Inactive Lines:          0
+   Executable Code Lines:   22
+   Declarative Code Lines:  7
+   Execution Statements:    20
+   Declaration Statements:  8
+   Ratio Comment/Code:      0.12
+   Units                    1
+                                                                     Page 48
+                                  File Metrics
+===============================================================================
+
+LoginContext.java
+   Lines:                   45
+   Comment Lines:           11
+   Blank Lines:             3
+   Preprocessor Lines:      0
+   Code Lines:              31
+   Inactive Lines:          0
+   Executable Code Lines:   13
+   Declarative Code Lines:  17
+   Execution Statements:    8
+   Declaration Statements:  15
+   Ratio Comment/Code:      0.35
+   Units                    2
+
+Peminjaman.java
+   Lines:                   71
+   Comment Lines:           9
+   Blank Lines:             5
+   Preprocessor Lines:      0
+   Code Lines:              57
+   Inactive Lines:          0
+   Executable Code Lines:   47
+   Declarative Code Lines:  14
+   Execution Statements:    38
+   Declaration Statements:  16
+   Ratio Comment/Code:      0.16
+   Units                    2
+
+Pengembalian.java
+   Lines:                   41
+   Comment Lines:           9
+   Blank Lines:             4
+   Preprocessor Lines:      0
+   Code Lines:              28
+   Inactive Lines:          0
+   Executable Code Lines:   21
+   Declarative Code Lines:  10
+   Execution Statements:    14
+   Declaration Statements:  11
+   Ratio Comment/Code:      0.32
+   Units                    1
+
+PengembalianContext.java
+   Lines:                   41
+   Comment Lines:           9
+   Blank Lines:             0
+   Preprocessor Lines:      0
+   Code Lines:              32
+   Inactive Lines:          0
+   Executable Code Lines:   17
+   Declarative Code Lines:  18
+   Execution Statements:    8
+   Declaration Statements:  17
+   Ratio Comment/Code:      0.28
+   Units                    2
+                                                                     Page 49
+                                  File Metrics
+===============================================================================
+
+RekapData.java
+   Lines:                   47
+   Comment Lines:           9
+   Blank Lines:             4
+   Preprocessor Lines:      0
+   Code Lines:              34
+   Inactive Lines:          0
+   Executable Code Lines:   27
+   Declarative Code Lines:  13
+   Execution Statements:    17
+   Declaration Statements:  14
+   Ratio Comment/Code:      0.26
+   Units                    1
+
+RekapDataContext.java
+   Lines:                   56
+   Comment Lines:           50
+   Blank Lines:             5
+   Preprocessor Lines:      0
+   Code Lines:              1
+   Inactive Lines:          0
+   Executable Code Lines:   0
+   Declarative Code Lines:  1
+   Execution Statements:    0
+   Declaration Statements:  1
+   Ratio Comment/Code:      50.00
+   Units                    0
+
+tambah_mahasiswa.java
+   Lines:                   58
+   Comment Lines:           9
+   Blank Lines:             4
+   Preprocessor Lines:      0
+   Code Lines:              45
+   Inactive Lines:          0
+   Executable Code Lines:   35
+   Declarative Code Lines:  12
+   Execution Statements:    29
+   Declaration Statements:  15
+   Ratio Comment/Code:      0.20
+   Units                    2
+
+tambah_mahasiswacontext.java
+   Lines:                   71
+   Comment Lines:           12
+   Blank Lines:             6
+   Preprocessor Lines:      0
+   Code Lines:              53
+   Inactive Lines:          0
+   Executable Code Lines:   35
+   Declarative Code Lines:  20
+   Execution Statements:    29
+   Declaration Statements:  19
+   Ratio Comment/Code:      0.23
+   Units                    3
+                                                                     Page 50
+                          File Average Metrics Report
+===============================================================================
+
+CariAnggota.java
+   Cyclomatic                         5
+   Modified                           5
+   Strict                             5
+   Essential                          1
+   Lines                              24
+   Code                               23
+   Comment                            0
+   Blank                              1
+
+InputBukuContext.java
+   Cyclomatic                         1
+   Modified                           1
+   Strict                             1
+   Essential                          1
+   Lines                              10
+   Code                               9
+   Comment                            1
+   Blank                              0
+
+InputMhsContext.java
+   Cyclomatic                         1
+   Modified                           1
+   Strict                             1
+   Essential                          1
+   Lines                              15
+   Code                               14
+   Comment                            1
+   Blank                              0
+
+Login_aplikasi.java
+   Cyclomatic                         4
+   Modified                           4
+   Strict                             5
+   Essential                          3
+   Lines                              28
+   Code                               28
+   Comment                            0
+   Blank                              0
+
+LoginContext.java
+   Cyclomatic                         2
+   Modified                           2
+   Strict                             2
+   Essential                          1
+   Lines                              11
+   Code                               10
+   Comment                            1
+   Blank                              0
+
+Peminjaman.java
+   Cyclomatic                         3
+   Modified                           3
+   Strict                             3
+   Essential                          1
+   Lines                              22
+   Code                               22
+   Comment                            0
+   Blank                              0
+                                                                     Page 51
+                          File Average Metrics Report
+===============================================================================
+
+Pengembalian.java
+   Cyclomatic                         3
+   Modified                           3
+   Strict                             3
+   Essential                          1
+   Lines                              19
+   Code                               19
+   Comment                            0
+   Blank                              0
+
+PengembalianContext.java
+   Cyclomatic                         2
+   Modified                           2
+   Strict                             2
+   Essential                          1
+   Lines                              11
+   Code                               11
+   Comment                            0
+   Blank                              0
+
+RekapData.java
+   Cyclomatic                         4
+   Modified                           4
+   Strict                             4
+   Essential                          1
+   Lines                              21
+   Code                               21
+   Comment                            0
+   Blank                              0
+
+RekapDataContext.java
+   Cyclomatic                         0
+   Modified                           0
+   Strict                             0
+   Essential                          0
+   Lines                              0
+   Code                               0
+   Comment                            0
+   Blank                              0
+
+tambah_mahasiswa.java
+   Cyclomatic                         2
+   Modified                           2
+   Strict                             2
+   Essential                          1
+   Lines                              16
+   Code                               16
+   Comment                            0
+   Blank                              0
+
+tambah_mahasiswacontext.java
+   Cyclomatic                         1
+   Modified                           1
+   Strict                             1
+   Essential                          1
+   Lines                              15
+   Code                               14
+   Comment                            1
+   Blank                              0
+                                                                     Page 52
+                              Class Metrics Report
+===============================================================================
+apaini.peminjaman:
+  Lines                     61
+  Lines Blank                2
+  Lines Code                55
+  Lines Comment              4
+  Average Lines             22
+  Average Lines Comment      0
+  Average Complexity         3
+  Maximum Complexity         4
+  Ratio Comment/Code      0.07
+
+apaini.pengembalian:
+  Lines                     31
+  Lines Blank                1
+  Lines Code                26
+  Lines Comment              4
+  Average Lines             19
+  Average Lines Comment      0
+  Average Complexity         3
+  Maximum Complexity         3
+  Ratio Comment/Code      0.15
+
+apaini.rekap_data:
+  Lines                     37
+  Lines Blank                1
+  Lines Code                32
+  Lines Comment              4
+  Average Lines             21
+  Average Lines Comment      0
+  Average Complexity         4
+  Maximum Complexity         4
+  Ratio Comment/Code      0.13
+
+apaini.tambah_mahasiswa:
+  Lines                     47
+  Lines Blank                1
+  Lines Code                42
+  Lines Comment              4
+  Average Lines             16
+  Average Lines Comment      0
+  Average Complexity         2
+  Maximum Complexity         2
+  Ratio Comment/Code      0.10
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext:
+  Lines                     42
+  Lines Blank                2
+  Lines Code                33
+  Lines Comment              7
+  Average Lines             10
+  Average Lines Comment      1
+  Average Complexity         1
+  Maximum Complexity         2
+  Ratio Comment/Code      0.21
+
+                                                                     Page 53
+                              Class Metrics Report
+===============================================================================
+id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext:
+  Lines                     57
+  Lines Blank                3
+  Lines Code                47
+  Lines Comment              7
+  Average Lines             15
+  Average Lines Comment      1
+  Average Complexity         1
+  Maximum Complexity         2
+  Ratio Comment/Code      0.15
+
+id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext:
+  Lines                     32
+  Lines Blank                1
+  Lines Code                25
+  Lines Comment              6
+  Average Lines             11
+  Average Lines Comment      1
+  Average Complexity         2
+  Maximum Complexity         2
+  Ratio Comment/Code      0.24
+
+login.login1:
+  Lines                     34
+  Lines Blank                0
+  Lines Code                30
+  Lines Comment              4
+  Average Lines             28
+  Average Lines Comment      0
+  Average Complexity         4
+  Maximum Complexity         4
+  Ratio Comment/Code      0.13
+
+tambah_mahasiswaContext:
+  Lines                     58
+  Lines Blank                3
+  Lines Code                48
+  Lines Comment              7
+  Average Lines             15
+  Average Lines Comment      1
+  Average Complexity         1
+  Maximum Complexity         2
+  Ratio Comment/Code      0.15
+
+tubesimpal.Cari_Mahasiswa:
+  Lines                     36
+  Lines Blank                2
+  Lines Code                30
+  Lines Comment              4
+  Average Lines             24
+  Average Lines Comment      0
+  Average Complexity         5
+  Maximum Complexity         5
+  Ratio Comment/Code      0.13
+
+                                                                     Page 54
+                              Class Metrics Report
+===============================================================================
+tubesimpal.PengembalianContext:
+  Lines                     30
+  Lines Blank                0
+  Lines Code                26
+  Lines Comment              4
+  Average Lines             11
+  Average Lines Comment      0
+  Average Complexity         2
+  Maximum Complexity         3
+  Ratio Comment/Code      0.15
+
+                                                                     Page 55
+                            Class OO Metrics Report
+===============================================================================
+apaini.peminjaman:
+  LCOM   (Percent Lack of Cohesion)         5
+  DIT    (Max Inheritance Tree)             1
+  IFANIN (Count of Base Classes)            1
+  CBO    (Count of Coupled Classes)         4
+  NOC    (Count of Derived Classes)         0
+  RFC    (Count of All Methods)            14
+  NIM    (Count of Instance Methods)        2
+  NIV    (Count of Instance Variables)      9
+  WMC    (Count of Methods)                 2
+
+apaini.pengembalian:
+  LCOM   (Percent Lack of Cohesion)        50
+  DIT    (Max Inheritance Tree)             1
+  IFANIN (Count of Base Classes)            1
+  CBO    (Count of Coupled Classes)         4
+  NOC    (Count of Derived Classes)         0
+  RFC    (Count of All Methods)            13
+  NIM    (Count of Instance Methods)        1
+  NIV    (Count of Instance Variables)      6
+  WMC    (Count of Methods)                 1
+
+apaini.rekap_data:
+  LCOM   (Percent Lack of Cohesion)        55
+  DIT    (Max Inheritance Tree)             1
+  IFANIN (Count of Base Classes)            1
+  CBO    (Count of Coupled Classes)         4
+  NOC    (Count of Derived Classes)         0
+  RFC    (Count of All Methods)            13
+  NIM    (Count of Instance Methods)        1
+  NIV    (Count of Instance Variables)      9
+  WMC    (Count of Methods)                 1
+
+apaini.tambah_mahasiswa:
+  LCOM   (Percent Lack of Cohesion)         6
+  DIT    (Max Inheritance Tree)             1
+  IFANIN (Count of Base Classes)            1
+  CBO    (Count of Coupled Classes)         4
+  NOC    (Count of Derived Classes)         0
+  RFC    (Count of All Methods)            14
+  NIM    (Count of Instance Methods)        2
+  NIV    (Count of Instance Variables)      8
+  WMC    (Count of Methods)                 2
+
+id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext:
+  LCOM   (Percent Lack of Cohesion)         0
+  DIT    (Max Inheritance Tree)             1
+  IFANIN (Count of Base Classes)            1
+  CBO    (Count of Coupled Classes)         5
+  NOC    (Count of Derived Classes)         0
+  RFC    (Count of All Methods)            15
+  NIM    (Count of Instance Methods)        3
+  NIV    (Count of Instance Variables)      0
+  WMC    (Count of Methods)                 3
+
+                                                                     Page 56
+                            Class OO Metrics Report
+===============================================================================
+id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext:
+  LCOM   (Percent Lack of Cohesion)         0
+  DIT    (Max Inheritance Tree)             1
+  IFANIN (Count of Base Classes)            1
+  CBO    (Count of Coupled Classes)         5
+  NOC    (Count of Derived Classes)         0
+  RFC    (Count of All Methods)            15
+  NIM    (Count of Instance Methods)        3
+  NIV    (Count of Instance Variables)      0
+  WMC    (Count of Methods)                 3
+
+id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext:
+  LCOM   (Percent Lack of Cohesion)         0
+  DIT    (Max Inheritance Tree)             1
+  IFANIN (Count of Base Classes)            1
+  CBO    (Count of Coupled Classes)         5
+  NOC    (Count of Derived Classes)         0
+  RFC    (Count of All Methods)            14
+  NIM    (Count of Instance Methods)        2
+  NIV    (Count of Instance Variables)      0
+  WMC    (Count of Methods)                 2
+
+login.login1:
+  LCOM   (Percent Lack of Cohesion)         0
+  DIT    (Max Inheritance Tree)             1
+  IFANIN (Count of Base Classes)            1
+  CBO    (Count of Coupled Classes)         4
+  NOC    (Count of Derived Classes)         0
+  RFC    (Count of All Methods)            13
+  NIM    (Count of Instance Methods)        1
+  NIV    (Count of Instance Variables)      0
+  WMC    (Count of Methods)                 1
+
+tambah_mahasiswaContext:
+  LCOM   (Percent Lack of Cohesion)         0
+  DIT    (Max Inheritance Tree)             1
+  IFANIN (Count of Base Classes)            1
+  CBO    (Count of Coupled Classes)         5
+  NOC    (Count of Derived Classes)         0
+  RFC    (Count of All Methods)            15
+  NIM    (Count of Instance Methods)        3
+  NIV    (Count of Instance Variables)      0
+  WMC    (Count of Methods)                 3
+
+tubesimpal.Cari_Mahasiswa:
+  LCOM   (Percent Lack of Cohesion)         0
+  DIT    (Max Inheritance Tree)             1
+  IFANIN (Count of Base Classes)            1
+  CBO    (Count of Coupled Classes)         4
+  NOC    (Count of Derived Classes)         0
+  RFC    (Count of All Methods)            13
+  NIM    (Count of Instance Methods)        1
+  NIV    (Count of Instance Variables)      5
+  WMC    (Count of Methods)                 1
+
+                                                                     Page 57
+                            Class OO Metrics Report
+===============================================================================
+tubesimpal.PengembalianContext:
+  LCOM   (Percent Lack of Cohesion)         0
+  DIT    (Max Inheritance Tree)             1
+  IFANIN (Count of Base Classes)            1
+  CBO    (Count of Coupled Classes)         5
+  NOC    (Count of Derived Classes)         0
+  RFC    (Count of All Methods)            14
+  NIM    (Count of Instance Methods)        2
+  NIV    (Count of Instance Variables)      0
+  WMC    (Count of Methods)                 2
+
+                                                                     Page 58
+                           Uninitialized Items Report
+
+  Def: Items that have not been given an initial value at point of definition.
+===============================================================================
+
+LoginContext.java                                                      Line
+    password                                                             22
+    username                                                             21
+    result                                                               37
+
+PengembalianContext.java                                               Line
+    result                                                               35
+                                                                     Page 59
+                          Unused Objects and Functions
+
+Def: A variable that is not read from, written to after declaration, 
+or passed to a function, function parameters that are unused in the function, 
+and functions that have no invocations. 
+===============================================================================
+
+CariAnggota.java                                                              Line
+    Cari_Mahasiswa.cari - Public Method                                         15
+
+InputBukuContext.java                                                         Line
+    InputBukuContext.data_buku_baru_yang_akan_dimasukkan_dan_tidak_duplikat - Public Method     20
+    judulbuku - Variable                                                        23
+    Namapengarang - Variable                                                    24
+    TahunTerbit - Variable                                                      25
+    InputBukuContext.memasukkan_data_buku - Public Method                       30
+    InputBukuContext.respon - Public Method                                     46
+    arg1 - Parameter                                                            46
+      Declared in: id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.respon()
+
+InputMhsContext.java                                                          Line
+    InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat - Public Method     21
+    fak - Variable                                                              28
+    jur - Variable                                                              27
+    kdAnggota - Variable                                                        24
+    nama - Variable                                                             25
+    nim - Variable                                                              26
+    telp - Variable                                                             29
+    InputMhsContext.memasukkan_data_mahasiswa - Public Method                   35
+    InputMhsContext.respon - Public Method                                      60
+    arg1 - Parameter                                                            60
+      Declared in: id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.respon()
+
+LoginContext.java                                                             Line
+    LoginContext.memasukkan_data_login - Public Method                          20
+    result - Variable                                                           29
+    result - Variable                                                           31
+    LoginContext.respon - Public Method                                         36
+    arg1 - Parameter                                                            36
+      Declared in: id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext.respon()
+    result - Variable                                                           37
+
+Login_aplikasi.java                                                           Line
+    login1.login - Public Method                                                 9
+
+Peminjaman.java                                                               Line
+    peminjaman.addPinjam - Public Method                                        26
+    peminjaman.showdata - Public Method                                         59
+
+Pengembalian.java                                                             Line
+    pengembalian.addKembali - Public Method                                     23
+    pengembalian.kodeBuku - Variable                                            19
+    pengembalian.tglKembali - Variable                                          20
+    pengembalian.tglPinjam - Variable                                           21
+
+PengembalianContext.java                                                      Line
+    PengembalianContext.memasukkan_data_pengembalian - Public Method            18
+    kodeBuku - Variable                                                         22
+    tglKembali - Variable                                                       23
+    tglPinjam - Variable                                                        24
+    PengembalianContext.respon - Public Method                                  34
+                                                                     Page 60
+                          Unused Objects and Functions
+
+Def: A variable that is not read from, written to after declaration, 
+or passed to a function, function parameters that are unused in the function, 
+and functions that have no invocations. 
+===============================================================================
+    arg1 - Parameter                                                            34
+      Declared in: tubesimpal.PengembalianContext.respon()
+    result - Variable                                                           35
+
+RekapData.java                                                                Line
+    rekap_data.judulBuku - Variable                                             21
+    rekap_data.kodeBuku - Variable                                              22
+    rekap_data.nama - Variable                                                  20
+    rekap_data.noPinjam - Variable                                              18
+    rekap_data.showRekap - Public Method                                        26
+    rekap_data.tglKembali - Variable                                            23
+    rekap_data.tglPinjam - Variable                                             24
+
+tambah_mahasiswa.java                                                         Line
+    tambah_mahasiswa.addMhs - Public Method                                     24
+    tambah_mahasiswa.showdata - Public Method                                   47
+
+tambah_mahasiswacontext.java                                                  Line
+    tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat - Public Method     20
+    fak - Variable                                                              27
+    jur - Variable                                                              26
+    kdAnggota - Variable                                                        23
+    nama - Variable                                                             24
+    nim - Variable                                                              25
+    telp - Variable                                                             28
+    tambah_mahasiswaContext.memasukkan_data_mahasiswa - Public Method           34
+    tambah_mahasiswaContext.respon - Public Method                              59
+    arg1 - Parameter                                                            59
+      Declared in: tambah_mahasiswaContext.respon()
+                                                                     Page 61
+                             Unused Objects Report
+===============================================================================
+
+InputBukuContext.java
+    id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.data_buku_baru_yang_akan_dimasukkan_dan_tidak_duplikat.judulbuku 23
+    id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.data_buku_baru_yang_akan_dimasukkan_dan_tidak_duplikat.Namapengarang 24
+    id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.data_buku_baru_yang_akan_dimasukkan_dan_tidak_duplikat.TahunTerbit 25
+    id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.respon.arg1 46
+
+InputMhsContext.java
+    id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat.fak 28
+    id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat.jur 27
+    id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat.kdAnggota 24
+    id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat.nama 25
+    id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat.nim 26
+    id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat.telp 29
+    id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.respon.arg1 60
+
+LoginContext.java
+    id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext.memasukkan_data_login.result 29
+    id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext.memasukkan_data_login.result 31
+    id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext.respon.arg1 36
+    id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext.respon.result 37
+
+Pengembalian.java
+    apaini.pengembalian.kodeBuku                                         19
+    apaini.pengembalian.tglKembali                                       20
+    apaini.pengembalian.tglPinjam                                        21
+
+PengembalianContext.java
+    tubesimpal.PengembalianContext.memasukkan_data_pengembalian.kodeBuku 22
+    tubesimpal.PengembalianContext.memasukkan_data_pengembalian.tglKembali 23
+    tubesimpal.PengembalianContext.memasukkan_data_pengembalian.tglPinjam 24
+    tubesimpal.PengembalianContext.respon.arg1                           34
+    tubesimpal.PengembalianContext.respon.result                         35
+
+RekapData.java
+    apaini.rekap_data.judulBuku                                          21
+    apaini.rekap_data.kodeBuku                                           22
+    apaini.rekap_data.nama                                               20
+    apaini.rekap_data.noPinjam                                           18
+    apaini.rekap_data.tglKembali                                         23
+    apaini.rekap_data.tglPinjam                                          24
+
+tambah_mahasiswacontext.java
+    tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat.fak 27
+    tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat.jur 26
+    tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat.kdAnggota 23
+    tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat.nama 24
+    tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat.nim 25
+    tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat.telp 28
+    tambah_mahasiswaContext.respon.arg1                                  59
+                                                                     Page 62
+                              Unused Types Report
+===============================================================================
+
+CariAnggota.java
+    tubesimpal.Cari_Mahasiswa                                             8
+
+InputBukuContext.java
+    id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext     18
+
+InputMhsContext.java
+    id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext      19
+
+LoginContext.java
+    id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext         18
+
+Login_aplikasi.java
+    login.login1                                                          8
+
+Peminjaman.java
+    apaini.peminjaman                                                    15
+
+Pengembalian.java
+    apaini.pengembalian                                                  15
+
+PengembalianContext.java
+    tubesimpal.PengembalianContext                                       16
+
+RekapData.java
+    apaini.rekap_data                                                    15
+
+tambah_mahasiswa.java
+    apaini.tambah_mahasiswa                                              15
+
+tambah_mahasiswacontext.java
+    tambah_mahasiswaContext                                              18
+                                                                     Page 63
+                          Unused Program Units Report
+===============================================================================
+
+CariAnggota.java
+    tubesimpal.Cari_Mahasiswa.cari                                       15
+
+InputBukuContext.java
+    id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.data_buku_baru_yang_akan_dimasukkan_dan_tidak_duplikat 20
+    id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.memasukkan_data_buku 30
+    id.impal.besokbubar.sisteminformasiperpustakaan.InputBukuContext.respon 46
+
+InputMhsContext.java
+    id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat 21
+    id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.memasukkan_data_mahasiswa 35
+    id.impal.besokbubar.sisteminformasiperpustakaan.InputMhsContext.respon 60
+
+LoginContext.java
+    id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext.memasukkan_data_login 20
+    id.impal.besokbubar.sisteminformasiperpustakaan.LoginContext.respon  36
+
+Login_aplikasi.java
+    login.login1.login                                                    9
+
+Peminjaman.java
+    apaini.peminjaman.addPinjam                                          26
+    apaini.peminjaman.showdata                                           59
+
+Pengembalian.java
+    apaini.pengembalian.addKembali                                       23
+
+PengembalianContext.java
+    tubesimpal.PengembalianContext.memasukkan_data_pengembalian          18
+    tubesimpal.PengembalianContext.respon                                34
+
+RekapData.java
+    apaini.rekap_data.showRekap                                          26
+
+tambah_mahasiswa.java
+    apaini.tambah_mahasiswa.addMhs                                       24
+    apaini.tambah_mahasiswa.showdata                                     47
+
+tambah_mahasiswacontext.java
+    tambah_mahasiswaContext.data_mahasiswa_yang_akan_dimasukkan_dan_tidak_duplikat 20
+    tambah_mahasiswaContext.memasukkan_data_mahasiswa                    34
+    tambah_mahasiswaContext.respon                                       59
